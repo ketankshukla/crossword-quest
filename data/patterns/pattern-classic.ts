@@ -1,35 +1,33 @@
-// Pattern 1: Classic NYT-style 15x15 with 180-degree rotational symmetry
-// Black squares represented as 1, white squares as 0
-// This pattern has clean diagonal flow with proper word lengths
+// Pattern 1: Classic NYT-style 15x15 with full symmetry
+// Symmetric both horizontally AND vertically (4-way symmetry)
+// grid[r][c] === grid[r][14-c] === grid[14-r][c] === grid[14-r][14-c]
 
 export const patternClassic = {
   id: "pattern-classic",
   name: "Classic",
   size: 15,
   description:
-    "Traditional NYT-style crossword pattern with balanced black square distribution",
+    "Traditional NYT-style crossword with full horizontal and vertical symmetry",
 
-  // Grid where 1 = black square, 0 = white square
-  // 180-degree rotational symmetry: grid[r][c] === grid[14-r][14-c]
+  // 1 = black square, 0 = white square
   grid: [
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0],
-    [1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1],
     [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0],
     [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+    [1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1],
     [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
-    [1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1],
     [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
   ],
 
-  // Slot definitions will be auto-generated from the grid
   slots: [] as Array<{
     slotId: string;
     direction: "across" | "down";
@@ -40,75 +38,65 @@ export const patternClassic = {
   }>,
 };
 
-// Function to generate slots from grid
 function generateSlots(grid: number[][]): typeof patternClassic.slots {
   const slots: typeof patternClassic.slots = [];
   const size = grid.length;
   let clueNumber = 1;
-  const numberedCells: Set<string> = new Set();
+  const numberedCells = new Map<string, number>();
 
   for (let row = 0; row < size; row++) {
     for (let col = 0; col < size; col++) {
-      if (grid[row][col] === 1) continue; // Skip black squares
+      if (grid[row][col] === 1) continue;
 
       const isStartOfAcross = col === 0 || grid[row][col - 1] === 1;
       const isStartOfDown = row === 0 || grid[row - 1][col] === 1;
-      const hasAcrossWord =
-        isStartOfAcross && col < size - 1 && grid[row][col + 1] === 0;
-      const hasDownWord =
-        isStartOfDown && row < size - 1 && grid[row + 1][col] === 0;
+
+      let acrossLength = 0;
+      if (isStartOfAcross) {
+        for (let c = col; c < size && grid[row][c] === 0; c++) acrossLength++;
+      }
+
+      let downLength = 0;
+      if (isStartOfDown) {
+        for (let r = row; r < size && grid[r][col] === 0; r++) downLength++;
+      }
+
+      const hasAcrossWord = acrossLength >= 3;
+      const hasDownWord = downLength >= 3;
 
       if (hasAcrossWord || hasDownWord) {
         const cellKey = `${row}-${col}`;
-        const needsNumber = !numberedCells.has(cellKey);
+        let num = numberedCells.get(cellKey);
 
-        if (needsNumber) {
-          numberedCells.add(cellKey);
+        if (num === undefined) {
+          num = clueNumber++;
+          numberedCells.set(cellKey, num);
         }
 
         if (hasAcrossWord) {
-          let length = 0;
-          for (let c = col; c < size && grid[row][c] === 0; c++) {
-            length++;
-          }
-          if (length >= 3) {
-            slots.push({
-              slotId: `A${clueNumber}`,
-              direction: "across",
-              row,
-              col,
-              length,
-              number: clueNumber,
-            });
-          }
+          slots.push({
+            slotId: `A${num}`,
+            direction: "across",
+            row,
+            col,
+            length: acrossLength,
+            number: num,
+          });
         }
-
         if (hasDownWord) {
-          let length = 0;
-          for (let r = row; r < size && grid[r][col] === 0; r++) {
-            length++;
-          }
-          if (length >= 3) {
-            slots.push({
-              slotId: `D${clueNumber}`,
-              direction: "down",
-              row,
-              col,
-              length,
-              number: clueNumber,
-            });
-          }
-        }
-
-        if (needsNumber && (hasAcrossWord || hasDownWord)) {
-          clueNumber++;
+          slots.push({
+            slotId: `D${num}`,
+            direction: "down",
+            row,
+            col,
+            length: downLength,
+            number: num,
+          });
         }
       }
     }
   }
-
   return slots;
 }
 
-// Generate slots for this pattern
 patternClassic.slots = generateSlots(patternClassic.grid);

@@ -4,10 +4,10 @@ import type { LoadedPuzzle } from "@/lib/types";
 // All puzzles organized by pattern
 export const puzzlesByPattern: Record<string, LoadedPuzzle[]> = {
   "pattern-classic": [puzzleClassic001],
-  "pattern-pinwheel": [],
   "pattern-diamond": [],
-  "pattern-staircase": [],
-  "pattern-spiral": [],
+  "pattern-blocks": [],
+  "pattern-corners": [],
+  "pattern-cross": [],
 };
 
 // Get all puzzles as flat array

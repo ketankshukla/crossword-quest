@@ -1,15 +1,15 @@
 import { patternClassic } from "./pattern-classic";
-import { patternPinwheel } from "./pattern-pinwheel";
 import { patternDiamond } from "./pattern-diamond";
-import { patternStaircase } from "./pattern-staircase";
-import { patternSpiral } from "./pattern-spiral";
+import { patternBlocks } from "./pattern-blocks";
+import { patternCorners } from "./pattern-corners";
+import { patternCross } from "./pattern-cross";
 
 export const patterns = [
   patternClassic,
-  patternPinwheel,
   patternDiamond,
-  patternStaircase,
-  patternSpiral,
+  patternBlocks,
+  patternCorners,
+  patternCross,
 ];
 
 export type Pattern = typeof patternClassic;
@@ -24,8 +24,8 @@ export function getPatternById(id: string): Pattern | undefined {
 
 export {
   patternClassic,
-  patternPinwheel,
   patternDiamond,
-  patternStaircase,
-  patternSpiral,
+  patternBlocks,
+  patternCorners,
+  patternCross,
 };

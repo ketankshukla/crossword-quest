@@ -1,29 +1,29 @@
-// Pattern 2: Diamond 15x15 with full horizontal and vertical symmetry
-// Features a diamond-like arrangement in the center
+// Pattern 3: Blocks 15x15 with full horizontal and vertical symmetry
+// Features block-like arrangements with clear sections
 
-export const patternDiamond = {
-  id: "pattern-diamond",
-  name: "Diamond",
+export const patternBlocks = {
+  id: "pattern-blocks",
+  name: "Blocks",
   size: 15,
-  description: "Elegant diamond pattern with full symmetry",
+  description: "Clean block pattern with defined sections and full symmetry",
 
   // 1 = black square, 0 = white square
   grid: [
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
-    [0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0],
-    [1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
+    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
-    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
-    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+    [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0],
+    [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1],
     [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    [1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1],
-    [0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0],
+    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
     [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
-    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0],
   ],
 
   slots: [] as Array<{
@@ -36,8 +36,8 @@ export const patternDiamond = {
   }>,
 };
 
-function generateSlots(grid: number[][]): typeof patternDiamond.slots {
-  const slots: typeof patternDiamond.slots = [];
+function generateSlots(grid: number[][]): typeof patternBlocks.slots {
+  const slots: typeof patternBlocks.slots = [];
   const size = grid.length;
   let clueNumber = 1;
   const numberedCells = new Map<string, number>();
@@ -97,4 +97,4 @@ function generateSlots(grid: number[][]): typeof patternDiamond.slots {
   return slots;
 }
 
-patternDiamond.slots = generateSlots(patternDiamond.grid);
+patternBlocks.slots = generateSlots(patternBlocks.grid);
