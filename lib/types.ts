@@ -61,6 +61,8 @@ export interface LoadedPuzzle {
   theme: string;
   category: string;
   difficulty: string;
+  patternId: string;
+  grid: number[][];
   words: PuzzleWord[];
 }
 

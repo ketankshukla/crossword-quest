@@ -1,4 +1,5 @@
-export const CELL_SIZE = 32;
+export const GRID_SIZE = 15;
+export const CELL_SIZE = 28; // Adjusted for 15x15 grid to fit screen
 export const GAP = 1;
 
 export const SCORING = {

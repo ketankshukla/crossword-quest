@@ -1,10 +1,13 @@
 import type { LoadedPuzzle } from "@/lib/types";
+import { patternClassic } from "./patterns/pattern-classic";
 
 export const demoPuzzle: LoadedPuzzle = {
-  size: 13,
+  size: 15,
   theme: "World Geography",
   category: "World Capitals",
   difficulty: "medium",
+  patternId: "pattern-classic",
+  grid: patternClassic.grid,
   words: [
     {
       number: 1,

@@ -11,26 +11,33 @@ import type {
 } from "@/lib/types";
 
 function generateGrid(puzzleData: LoadedPuzzle): GridCell[][] {
-  const { size, words } = puzzleData;
+  const { size, words, grid: patternGrid } = puzzleData;
 
+  // Initialize grid based on pattern (if available) or default to all black
   const grid: GridCell[][] = Array(size)
     .fill(null)
-    .map(() =>
+    .map((_, rowIndex) =>
       Array(size)
         .fill(null)
-        .map(() => ({
-          isCell: false,
-          isBlack: true,
-          letter: "",
-          number: null,
-          filled: false,
-          correctLetter: "",
-          hinted: false,
-        }))
+        .map((_, colIndex) => {
+          const isBlack = patternGrid
+            ? patternGrid[rowIndex][colIndex] === 1
+            : true;
+          return {
+            isCell: !isBlack,
+            isBlack,
+            letter: "",
+            number: null,
+            filled: false,
+            correctLetter: "",
+            hinted: false,
+          };
+        })
     );
 
   const numberedCells: Record<string, number> = {};
 
+  // Fill in word data
   words.forEach((word) => {
     const { answer, row, col, direction, number } = word;
     for (let i = 0; i < answer.length; i++) {

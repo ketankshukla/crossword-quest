@@ -120,11 +120,31 @@ export function mergePuzzleWithTemplate(
     };
   });
 
+  // Generate grid from template slots (15x15 grid with black squares)
+  const grid: number[][] = Array(template.size)
+    .fill(null)
+    .map(
+      () => Array(template.size).fill(1) // Start with all black
+    );
+
+  // Mark white cells based on word positions
+  puzzleWords.forEach((word) => {
+    for (let i = 0; i < word.answer.length; i++) {
+      const r = word.direction === "across" ? word.row : word.row + i;
+      const c = word.direction === "across" ? word.col + i : word.col;
+      if (r < template.size && c < template.size) {
+        grid[r][c] = 0; // White cell
+      }
+    }
+  });
+
   return {
     size: template.size,
     theme: puzzle.theme,
     category: puzzle.category,
     difficulty: puzzle.difficulty,
+    patternId: puzzle.template_id,
+    grid,
     words: puzzleWords,
   };
 }
