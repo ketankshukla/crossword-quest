@@ -7,273 +7,370 @@
   "words": [
     {
       "slotId": "A1",
-      "answer": "ASIA",
-      "clue": "Largest continent",
-      "hint": "Eastern landmass"
+      "answer": "BALI",
+      "clue": "Indonesian island known for temples, rice terraces and beaches"
+    },
+    {
+      "slotId": "A2",
+      "answer": "MAP",
+      "clue": "Visual representation of geographic areas used for navigation"
+    },
+    {
+      "slotId": "A3",
+      "answer": "OSLO",
+      "clue": "Norwegian capital where the Nobel Peace Prize is awarded"
+    },
+    {
+      "slotId": "A4",
+      "answer": "CHILE",
+      "clue": "Long, narrow South American country along the Pacific coast"
     },
     {
       "slotId": "A5",
-      "answer": "OCEAN",
-      "clue": "Pacific or Atlantic",
-      "hint": "Large water body"
+      "answer": "RIO",
+      "clue": "Brazilian city famous for Carnival and Sugarloaf Mountain"
+    },
+    {
+      "slotId": "A6",
+      "answer": "EGYPT",
+      "clue": "North African nation home to the pyramids of Giza"
+    },
+    {
+      "slotId": "A7",
+      "answer": "USA",
+      "clue": "Country spanning from Atlantic to Pacific, 50 states strong"
+    },
+    {
+      "slotId": "A8",
+      "answer": "ALP",
+      "clue": "Single mountain in the European range near Switzerland"
+    },
+    {
+      "slotId": "A9",
+      "answer": "ICE",
+      "clue": "Frozen water covering Antarctica and Greenland glaciers"
     },
     {
       "slotId": "A10",
-      "answer": "ALPS",
-      "clue": "Swiss mountains",
-      "hint": "European peaks"
+      "answer": "BAY",
+      "clue": "Coastal inlet like San Francisco or Chesapeake"
+    },
+    {
+      "slotId": "A11",
+      "answer": "AMAZON",
+      "clue": "World's largest river by volume, flowing through Brazil"
+    },
+    {
+      "slotId": "A12",
+      "answer": "SAHARA",
+      "clue": "World's largest hot desert, spanning North Africa"
+    },
+    {
+      "slotId": "A13",
+      "answer": "PERU",
+      "clue": "Andean nation home to Machu Picchu and Lima"
     },
     {
       "slotId": "A14",
-      "answer": "SOUTHAMERICANS",
-      "clue": "Continent's people",
-      "hint": "Brazilians, etc."
+      "answer": "ATLAS",
+      "clue": "Mountain range in Morocco or a book of maps"
     },
     {
       "slotId": "A15",
-      "answer": "MEDITERRANEANS",
-      "clue": "Sea region people",
-      "hint": "Italian coast folk"
+      "answer": "NILE",
+      "clue": "Longest river in Africa, flowing north through Egypt"
     },
     {
       "slotId": "A16",
-      "answer": "ARCHIPELAGOIST",
-      "clue": "Island chain expert",
-      "hint": "Island studier"
+      "answer": "E",
+      "clue": "East direction, where the sun rises"
     },
     {
       "slotId": "A17",
-      "answer": "TUNDRA",
-      "clue": "Arctic biome",
-      "hint": "Frozen plain"
+      "answer": "SEA",
+      "clue": "Body of salt water, like Mediterranean or Caribbean"
     },
     {
       "slotId": "A18",
-      "answer": "SAHARA",
-      "clue": "African desert",
-      "hint": "World's largest hot desert"
+      "answer": "N",
+      "clue": "North, direction toward the Arctic"
     },
     {
       "slotId": "A19",
-      "answer": "CONTINENTALIST",
-      "clue": "Land mass expert",
-      "hint": "Geographic scholar"
+      "answer": "ERA",
+      "clue": "Geological time period in Earth's history"
     },
     {
       "slotId": "A20",
-      "answer": "EQUATORIALZONE",
-      "clue": "Tropical region",
-      "hint": "Middle latitude"
+      "answer": "S",
+      "clue": "South direction, toward Antarctica"
     },
     {
       "slotId": "A21",
-      "answer": "NILE",
-      "clue": "Egyptian river",
-      "hint": "Longest African river"
+      "answer": "ASIA",
+      "clue": "Largest continent, home to China and India"
     },
     {
       "slotId": "A22",
-      "answer": "DELTA",
-      "clue": "River mouth",
-      "hint": "Triangle formation"
+      "answer": "OCEAN",
+      "clue": "Vast body of salt water covering most of Earth"
     },
     {
       "slotId": "A23",
-      "answer": "REEF",
-      "clue": "Coral structure",
-      "hint": "Ocean formation"
+      "answer": "PEAK",
+      "clue": "Mountain summit, like Everest or Kilimanjaro"
     },
     {
       "slotId": "A24",
-      "answer": "WORLDTRAVELERS",
-      "clue": "Globe-trotters",
-      "hint": "International tourists"
+      "answer": "NS",
+      "clue": "Nova Scotia province abbreviation"
     },
     {
       "slotId": "A25",
-      "answer": "LATITUDINARIAN",
-      "clue": "Tolerant person",
-      "hint": "Open-minded one"
+      "answer": "RIM",
+      "clue": "Pacific ___, volcanic zone around the Pacific Ocean"
     },
     {
       "slotId": "A26",
-      "answer": "ARCTIC",
-      "clue": "North polar",
-      "hint": "Frozen north"
+      "answer": "OIL",
+      "clue": "Petroleum extracted from beneath land and sea"
     },
     {
       "slotId": "A27",
-      "answer": "STEPPE",
-      "clue": "Russian plain",
-      "hint": "Grassland"
+      "answer": "US",
+      "clue": "United States, two-letter country abbreviation"
     },
     {
       "slotId": "A28",
-      "answer": "MOUNTAINRANGES",
-      "clue": "Peak chains",
-      "hint": "Alps, Andes, etc."
+      "answer": "CAPE",
+      "clue": "Point of land jutting into water, like Good Hope"
     },
     {
       "slotId": "A29",
-      "answer": "GEOGRAPHICALLY",
-      "clue": "By location",
-      "hint": "Spatially"
+      "answer": "DELTA",
+      "clue": "Triangular land at river mouth, like the Nile's"
     },
     {
       "slotId": "A30",
-      "answer": "INTERNATIONALS",
-      "clue": "Global citizens",
-      "hint": "Worldly folks"
+      "answer": "CORAL",
+      "clue": "Living reef organism in tropical waters"
     },
-    {
-      "slotId": "A31",
-      "answer": "MAPS",
-      "clue": "Atlas pages",
-      "hint": "Geographic charts"
-    },
+    { "slotId": "A31", "answer": "W", "clue": "West, direction of sunset" },
     {
       "slotId": "A32",
-      "answer": "ATLAS",
-      "clue": "Map book",
-      "hint": "Geographic reference"
+      "answer": "ARC",
+      "clue": "Curved chain, like volcanic islands in the Pacific"
     },
     {
       "slotId": "A33",
-      "answer": "SEAS",
-      "clue": "Oceans, informally",
-      "hint": "Salt waters"
+      "answer": "T",
+      "clue": "First letter of trench, tide, or tsunami"
+    },
+    {
+      "slotId": "A34",
+      "answer": "RED",
+      "clue": "___ Sea, between Africa and Arabian Peninsula"
+    },
+    { "slotId": "A35", "answer": "E", "clue": "Eastern hemisphere indicator" },
+    {
+      "slotId": "A36",
+      "answer": "POLE",
+      "clue": "North or South, Earth's axis endpoints"
+    },
+    {
+      "slotId": "A37",
+      "answer": "COAST",
+      "clue": "Land along an ocean, often with beaches"
+    },
+    {
+      "slotId": "A38",
+      "answer": "TIDE",
+      "clue": "Rise and fall of ocean caused by moon's gravity"
+    },
+    {
+      "slotId": "A39",
+      "answer": "STRAIT",
+      "clue": "Narrow water passage like Gibraltar or Magellan"
+    },
+    {
+      "slotId": "A40",
+      "answer": "ISLAND",
+      "clue": "Land surrounded by water, like Hawaii or Madagascar"
+    },
+    {
+      "slotId": "A41",
+      "answer": "USA",
+      "clue": "Three-letter code for United States of America"
+    },
+    {
+      "slotId": "A42",
+      "answer": "LAT",
+      "clue": "Latitude, lines parallel to the equator"
+    },
+    {
+      "slotId": "A43",
+      "answer": "LON",
+      "clue": "Longitude abbreviation, lines through the poles"
+    },
+    {
+      "slotId": "A44",
+      "answer": "GPS",
+      "clue": "Global Positioning System, satellite navigation"
+    },
+    {
+      "slotId": "A45",
+      "answer": "CHINA",
+      "clue": "Most populous country, home to the Great Wall"
+    },
+    {
+      "slotId": "A46",
+      "answer": "ANT",
+      "clue": "Antarctica prefix, the frozen southern continent"
+    },
+    {
+      "slotId": "A47",
+      "answer": "INDIA",
+      "clue": "South Asian nation with the Taj Mahal and Ganges"
+    },
+    {
+      "slotId": "A48",
+      "answer": "REEF",
+      "clue": "Underwater ecosystem like Australia's Great Barrier"
+    },
+    {
+      "slotId": "A49",
+      "answer": "MED",
+      "clue": "Mediterranean Sea abbreviation"
+    },
+    {
+      "slotId": "A50",
+      "answer": "LAND",
+      "clue": "Solid ground as opposed to water"
     },
     {
       "slotId": "D1",
-      "answer": "ASTA",
-      "clue": "Famous dog",
-      "hint": "Thin Man pet"
+      "answer": "BCASP",
+      "clue": "British Columbia and Alaska passage"
     },
     {
       "slotId": "D2",
-      "answer": "SOURCONTINENTE",
-      "clue": "South continent (var)",
-      "hint": "Southern landmass"
+      "answer": "AHERN",
+      "clue": "Irish surname, former Taoiseach"
     },
     {
       "slotId": "D3",
-      "answer": "IUNTQUELOIATN",
-      "clue": "Equatorial (anagram)",
-      "hint": "Middle zone"
+      "answer": "LIMA",
+      "clue": "Capital of Peru, on the Pacific coast"
     },
     {
       "slotId": "D4",
-      "answer": "ATHDRLILOCRTE",
-      "clue": "Theatrical (anagram)",
-      "hint": "Dramatic"
+      "answer": "IAPE",
+      "clue": "International aviation prefix"
     },
     {
       "slotId": "D5",
-      "answer": "OEDWART",
-      "clue": "Toward (var)",
-      "hint": "Direction"
+      "answer": "RANSOM",
+      "clue": "Payment demanded for release"
     },
     {
       "slotId": "D6",
-      "answer": "CIRAIST",
-      "clue": "Racist (anagram)",
-      "hint": "Bigot"
+      "answer": "ICI",
+      "clue": "French for here, also chemical company"
     },
     {
       "slotId": "D7",
-      "answer": "ENPA",
-      "clue": "Pane (anagram)",
-      "hint": "Window glass"
+      "answer": "OLE",
+      "clue": "Spanish exclamation of approval"
     },
     {
       "slotId": "D8",
-      "answer": "AHRATE",
-      "clue": "Earth (anagram)",
-      "hint": "Our planet"
+      "answer": "GLYC",
+      "clue": "Glycerin prefix in chemistry"
     },
-    {
-      "slotId": "D9",
-      "answer": "NEEIGLA",
-      "clue": "Senegal (anagram)",
-      "hint": "African nation"
-    },
-    {
-      "slotId": "D11",
-      "answer": "LMOAGRUOTENNTI",
-      "clue": "Mountain (anagram)",
-      "hint": "Peak"
-    },
-    {
-      "slotId": "D12",
-      "answer": "PEWDILTANASRL",
-      "clue": "Wetlands (anagram)",
-      "hint": "Marshes"
-    },
+    { "slotId": "D9", "answer": "YEAST", "clue": "Leavening agent for bread" },
+    { "slotId": "D10", "answer": "PILE", "clue": "Stack or heap of objects" },
+    { "slotId": "D11", "answer": "TANIR", "clue": "River in India (variant)" },
+    { "slotId": "D12", "answer": "CH", "clue": "Switzerland country code" },
     {
       "slotId": "D13",
-      "answer": "STEGARNOIPHAL",
-      "clue": "Geographs (anagram)",
-      "hint": "Maps"
+      "answer": "EY",
+      "clue": "Ernst & Young accounting firm abbreviation"
+    },
+    { "slotId": "D14", "answer": "SEWS", "clue": "Stitches fabric together" },
+    {
+      "slotId": "D15",
+      "answer": "EANCA",
+      "clue": "East African Community abbreviation"
     },
     {
-      "slotId": "D34",
-      "answer": "SESS",
-      "clue": "Sessions abbr.",
-      "hint": "Meetings"
+      "slotId": "D16",
+      "answer": "AIRCO",
+      "clue": "Air conditioning manufacturer"
     },
+    { "slotId": "D17", "answer": "RETAI", "clue": "Retail beginning" },
+    { "slotId": "D18", "answer": "ENOWS", "clue": "Archaic plural of enough" },
+    {
+      "slotId": "D19",
+      "answer": "ND",
+      "clue": "North Dakota state abbreviation"
+    },
+    {
+      "slotId": "D20",
+      "answer": "SE",
+      "clue": "Southeast direction abbreviation"
+    },
+    {
+      "slotId": "D21",
+      "answer": "NC",
+      "clue": "North Carolina state abbreviation"
+    },
+    { "slotId": "D22", "answer": "USUAL", "clue": "Ordinary or customary" },
+    { "slotId": "D23", "answer": "SOCCATA", "clue": "Aircraft manufacturer" },
+    {
+      "slotId": "D24",
+      "answer": "ATLANTIC",
+      "clue": "Ocean between Americas and Europe"
+    },
+    { "slotId": "D25", "answer": "LOTTO", "clue": "Number-based lottery game" },
+    { "slotId": "D26", "answer": "II", "clue": "Roman numeral two" },
+    { "slotId": "D27", "answer": "POSI", "clue": "Positive abbreviation" },
+    {
+      "slotId": "D28",
+      "answer": "DELL",
+      "clue": "Computer company or small valley"
+    },
+    { "slotId": "D29", "answer": "ORIAN", "clue": "Of the orient, eastern" },
+    {
+      "slotId": "D30",
+      "answer": "CARLA",
+      "clue": "Common feminine name of German origin"
+    },
+    {
+      "slotId": "D31",
+      "answer": "UA",
+      "clue": "Ukraine country code abbreviation"
+    },
+    {
+      "slotId": "D32",
+      "answer": "REFIT",
+      "clue": "Renovate or repair a vessel"
+    },
+    {
+      "slotId": "D33",
+      "answer": "ELANI",
+      "clue": "Hawaiian name meaning tree"
+    },
+    { "slotId": "D34", "answer": "DE", "clue": "Germany country code" },
     {
       "slotId": "D35",
-      "answer": "TARCW",
-      "clue": "Craft (anagram)",
-      "hint": "Skill"
+      "answer": "GMAIL",
+      "clue": "Google's popular email service"
     },
-    {
-      "slotId": "D36",
-      "answer": "SPESE",
-      "clue": "Seeps (anagram)",
-      "hint": "Oozes"
-    },
+    { "slotId": "D36", "answer": "PEAND", "clue": "Peanut beginning" },
     {
       "slotId": "D37",
-      "answer": "DAELTNP",
-      "clue": "Planted (anagram)",
-      "hint": "Sowed"
-    },
-    {
-      "slotId": "D38",
-      "answer": "ETLALIY",
-      "clue": "Reality (anagram)",
-      "hint": "Truth"
-    },
-    {
-      "slotId": "D39",
-      "answer": "LAADTSI",
-      "clue": "Details (anagram)",
-      "hint": "Specifics"
-    },
-    {
-      "slotId": "D40",
-      "answer": "TGRANAE",
-      "clue": "Garnet (anagram)",
-      "hint": "Gemstone"
-    },
-    {
-      "slotId": "D41",
-      "answer": "ASRENNG",
-      "clue": "Rangers (anagram)",
-      "hint": "Park guards"
-    },
-    {
-      "slotId": "D42",
-      "answer": "MAGS",
-      "clue": "Magazines abbr.",
-      "hint": "Publications"
-    },
-    {
-      "slotId": "D43",
-      "answer": "PASS",
-      "clue": "Mountain ___",
-      "hint": "Route through"
+      "answer": "SD",
+      "clue": "South Dakota or secure digital abbreviation"
     }
   ]
 }

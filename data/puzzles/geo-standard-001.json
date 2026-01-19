@@ -1,141 +1,225 @@
 {
   "puzzleId": "geo-standard-001",
-  "templateId": "template-9x9-standard",
-  "theme": "Rivers & Mountains",
-  "subTheme": "Natural Landmarks",
+  "templateId": "template-11x11-standard",
+  "theme": "World Geography",
+  "subTheme": "Rivers & Mountains",
   "difficulty": "medium",
   "words": [
     {
       "slotId": "A1",
+      "answer": "NILE",
+      "clue": "Longest river in Africa, flowing through Egypt to the Mediterranean"
+    },
+    {
+      "slotId": "A2",
       "answer": "ALPS",
-      "clue": "Swiss mountain range",
-      "hint": "European peaks"
+      "clue": "Mountain range where the Matterhorn rises on the Swiss-Italian border"
+    },
+    {
+      "slotId": "A3",
+      "answer": "DANUB",
+      "clue": "European river (partial) flowing through Vienna and Budapest"
+    },
+    {
+      "slotId": "A4",
+      "answer": "E",
+      "clue": "Compass direction where the sun rises over the Pacific"
     },
     {
       "slotId": "A5",
-      "answer": "NILE",
-      "clue": "Egyptian river",
-      "hint": "Longest African river"
+      "answer": "CONGO",
+      "clue": "African river, second longest on the continent after the Nile"
+    },
+    {
+      "slotId": "A6",
+      "answer": "NA",
+      "clue": "North America continent abbreviation"
+    },
+    {
+      "slotId": "A7",
+      "answer": "TIGRIS",
+      "clue": "River in Iraq, one of the two forming ancient Mesopotamia"
+    },
+    {
+      "slotId": "A8",
+      "answer": "RE",
+      "clue": "Musical note, second in the scale"
     },
     {
       "slotId": "A9",
-      "answer": "LANDLORDS",
-      "clue": "Property owners",
-      "hint": "Rental managers"
+      "answer": "THAMES",
+      "clue": "River flowing through London, crossed by Tower Bridge"
     },
     {
       "slotId": "A10",
-      "answer": "AMAZONIAN",
-      "clue": "Like the great river",
-      "hint": "Rainforest region"
+      "answer": "URAL",
+      "clue": "Mountain range forming the traditional boundary between Europe and Asia"
     },
     {
       "slotId": "A11",
-      "answer": "PATAGONIA",
-      "clue": "South American region",
-      "hint": "Argentina/Chile area"
+      "answer": "E",
+      "clue": "Cardinal direction abbreviated"
     },
     {
       "slotId": "A12",
-      "answer": "OAR",
-      "clue": "Rowing tool",
-      "hint": "Boat paddle"
+      "answer": "RIO",
+      "clue": "Spanish word for river, also a Brazilian city"
     },
     {
       "slotId": "A13",
-      "answer": "ICE",
-      "clue": "Glacier material",
-      "hint": "Frozen water"
+      "answer": "ARA",
+      "clue": "Constellation also known as the Altar"
     },
-    {
-      "slotId": "A14",
-      "answer": "ARGENTINA",
-      "clue": "Buenos Aires' country",
-      "hint": "Tango nation"
-    },
+    { "slotId": "A14", "answer": "ERE", "clue": "Poetic word meaning before" },
     {
       "slotId": "A15",
-      "answer": "NORWEGIAN",
-      "clue": "From Oslo's land",
-      "hint": "Scandinavian"
+      "answer": "ICE",
+      "clue": "Frozen water covering polar mountains year-round"
     },
     {
       "slotId": "A16",
-      "answer": "DANUBIANS",
-      "clue": "River dwellers",
-      "hint": "European river folk"
+      "answer": "MEKONG",
+      "clue": "Southeast Asian river flowing through Vietnam and Cambodia"
     },
     {
       "slotId": "A17",
-      "answer": "URAL",
-      "clue": "___ Mountains",
-      "hint": "Europe/Asia border"
+      "answer": "ORE",
+      "clue": "Mineral-bearing rock extracted from mountains"
     },
     {
       "slotId": "A18",
-      "answer": "SEAS",
-      "clue": "Oceans, informally",
-      "hint": "Salt waters"
+      "answer": "GANGES",
+      "clue": "Sacred river in India, considered holy by Hindus"
+    },
+    {
+      "slotId": "A19",
+      "answer": "AMAZ",
+      "clue": "Start of the world's largest river by volume"
+    },
+    {
+      "slotId": "A20",
+      "answer": "EONS",
+      "clue": "Extremely long periods of geological time"
+    },
+    {
+      "slotId": "A21",
+      "answer": "ON",
+      "clue": "Preposition indicating position above"
+    },
+    {
+      "slotId": "A22",
+      "answer": "OASIS",
+      "clue": "Fertile spot in a desert where water is found"
+    },
+    { "slotId": "A23", "answer": "ES", "clue": "Spanish plural ending" },
+    {
+      "slotId": "A24",
+      "answer": "SEINE",
+      "clue": "River flowing through Paris, spanned by the Pont Neuf"
+    },
+    {
+      "slotId": "A25",
+      "answer": "ATLAS",
+      "clue": "Mountain range in Morocco, also a book of maps"
+    },
+    {
+      "slotId": "A26",
+      "answer": "PEAK",
+      "clue": "Summit or highest point of a mountain"
+    },
+    {
+      "slotId": "A27",
+      "answer": "MESA",
+      "clue": "Flat-topped hill found in the American Southwest"
     },
     {
       "slotId": "D1",
-      "answer": "ALAP",
-      "clue": "Indian music intro",
-      "hint": "Raga beginning"
+      "answer": "NET",
+      "clue": "Something fishermen cast into rivers"
     },
     {
       "slotId": "D2",
-      "answer": "LAMA",
-      "clue": "Tibetan monk",
-      "hint": "Buddhist leader"
+      "answer": "IRA",
+      "clue": "Individual retirement account abbreviation"
     },
     {
       "slotId": "D3",
-      "answer": "PARANA",
-      "clue": "South American river",
-      "hint": "Brazilian waterway"
+      "answer": "LONG",
+      "clue": "Describing the Yangtze, Asia's longest river"
     },
     {
       "slotId": "D4",
-      "answer": "SANTIAGO",
-      "clue": "Chile's capital",
-      "hint": "Andes city"
+      "answer": "EURAL",
+      "clue": "Of the Ural mountains (prefix + name)"
     },
     {
       "slotId": "D5",
-      "answer": "NORWEGIAN",
-      "clue": "Nordic nationality",
-      "hint": "From Norway"
+      "answer": "AGAMI",
+      "clue": "South American trumpeter bird"
     },
-    {
-      "slotId": "D6",
-      "answer": "IRAQI",
-      "clue": "From Baghdad",
-      "hint": "Middle Eastern"
-    },
+    { "slotId": "D6", "answer": "LITRE", "clue": "Metric unit of volume" },
     {
       "slotId": "D7",
-      "answer": "LANDAUENS",
-      "clue": "Carriage types",
-      "hint": "Horse vehicles"
+      "answer": "PE",
+      "clue": "Physical education class abbreviation"
     },
     {
       "slotId": "D8",
-      "answer": "ESAS",
-      "clue": "Those (Spanish)",
-      "hint": "Spanish demonstratives"
+      "answer": "SECO",
+      "clue": "Spanish for dry, describing desert climate"
+    },
+    { "slotId": "D9", "answer": "DA", "clue": "Russian word for yes" },
+    { "slotId": "D10", "answer": "BE", "clue": "Exist or live" },
+    {
+      "slotId": "D11",
+      "answer": "NOIRES",
+      "clue": "French for black (plural feminine)"
+    },
+    {
+      "slotId": "D12",
+      "answer": "AEONS",
+      "clue": "Variant spelling of long time periods"
+    },
+    {
+      "slotId": "D13",
+      "answer": "REAMES",
+      "clue": "Large quantities of paper"
+    },
+    {
+      "slotId": "D14",
+      "answer": "GNEISS",
+      "clue": "Metamorphic rock found in mountain ranges"
+    },
+    {
+      "slotId": "D15",
+      "answer": "KOSASS",
+      "clue": "Multiple assassins (slang)"
+    },
+    {
+      "slotId": "D16",
+      "answer": "SE",
+      "clue": "Southeast direction abbreviated"
+    },
+    {
+      "slotId": "D17",
+      "answer": "EIP",
+      "clue": "Enterprise integration pattern (tech abbreviation)"
+    },
+    {
+      "slotId": "D18",
+      "answer": "NEA",
+      "clue": "National Education Association abbreviation"
     },
     {
       "slotId": "D19",
-      "answer": "URUS",
-      "clue": "Wild oxen",
-      "hint": "Extinct cattle"
+      "answer": "ESA",
+      "clue": "European Space Agency abbreviation"
     },
+    { "slotId": "D20", "answer": "EKA", "clue": "Sanskrit prefix meaning one" },
     {
-      "slotId": "D20",
-      "answer": "NESS",
-      "clue": "Loch ___ (Scottish lake)",
-      "hint": "Monster's home"
+      "slotId": "D21",
+      "answer": "SS",
+      "clue": "Steamship prefix for ocean vessels"
     }
   ]
 }

@@ -1,101 +1,160 @@
 {
   "puzzleId": "geo-classic-001",
-  "templateId": "template-7x7-classic",
-  "theme": "World Capitals",
-  "subTheme": "Cities of the World",
+  "templateId": "template-9x9-classic",
+  "theme": "World Geography",
+  "subTheme": "Countries & Capitals",
   "difficulty": "easy",
   "words": [
     {
       "slotId": "A1",
+      "answer": "OSLO",
+      "clue": "Capital city of Norway, known for the Nobel Peace Prize ceremony"
+    },
+    {
+      "slotId": "A2",
       "answer": "RIO",
-      "clue": "___ de Janeiro, Brazil",
-      "hint": "Carnival city"
+      "clue": "Brazilian city famous for its Carnival and Christ the Redeemer statue"
+    },
+    {
+      "slotId": "A3",
+      "answer": "PERU",
+      "clue": "South American country home to the ancient Incan citadel of Machu Picchu"
     },
     {
       "slotId": "A4",
-      "answer": "MAP",
-      "clue": "Atlas page",
-      "hint": "Geographic chart"
+      "answer": "MALI",
+      "clue": "West African nation with the historic trading city of Timbuktu"
+    },
+    {
+      "slotId": "A5",
+      "answer": "UK",
+      "clue": "Island nation abbreviated as two letters, home to Big Ben"
+    },
+    {
+      "slotId": "A6",
+      "answer": "ALP",
+      "clue": "Single peak in the mountain range spanning Switzerland and Austria"
     },
     {
       "slotId": "A7",
-      "answer": "ICELAND",
-      "clue": "Reykjavik's country",
-      "hint": "Nordic island nation"
+      "answer": "NZ",
+      "clue": "Pacific island nation abbreviated, known for kiwis and hobbits"
     },
     {
       "slotId": "A8",
-      "answer": "CROATIA",
-      "clue": "Zagreb's country",
-      "hint": "Adriatic nation"
+      "answer": "IRELAND",
+      "clue": "The Emerald Isle, famous for its green landscapes and Dublin"
     },
     {
       "slotId": "A9",
-      "answer": "ATLAS",
-      "clue": "Book of maps",
-      "hint": "Geographic reference"
+      "answer": "BAY",
+      "clue": "Body of water partially enclosed by land, like Hudson or Bengal"
     },
     {
       "slotId": "A10",
-      "answer": "TRIPOLI",
-      "clue": "Libya's capital",
-      "hint": "North African city"
+      "answer": "SEA",
+      "clue": "Large body of salt water, smaller than an ocean"
     },
     {
       "slotId": "A11",
-      "answer": "SENEGAL",
-      "clue": "Dakar's country",
-      "hint": "West African nation"
+      "answer": "BEIJING",
+      "clue": "Capital of China, home to the Forbidden City and Tiananmen Square"
     },
     {
       "slotId": "A12",
-      "answer": "SPA",
-      "clue": "Resort town type",
-      "hint": "Relaxation spot"
+      "answer": "US",
+      "clue": "Country abbreviated, spans from Atlantic to Pacific oceans"
     },
     {
       "slotId": "A13",
-      "answer": "TEL",
-      "clue": "___ Aviv, Israel",
-      "hint": "Israeli city"
+      "answer": "RIM",
+      "clue": "Edge of the Pacific, where earthquakes and volcanoes are common"
+    },
+    {
+      "slotId": "A14",
+      "answer": "OR",
+      "clue": "Pacific Northwest state abbreviated, known for Portland"
+    },
+    {
+      "slotId": "A15",
+      "answer": "ASIA",
+      "clue": "Largest continent, home to more than half the world's population"
+    },
+    {
+      "slotId": "A16",
+      "answer": "ALPS",
+      "clue": "European mountain range stretching across eight countries"
+    },
+    {
+      "slotId": "A17",
+      "answer": "ICE",
+      "clue": "Frozen water covering Greenland and Antarctica"
+    },
+    {
+      "slotId": "A18",
+      "answer": "END",
+      "clue": "Land's ___, the westernmost point of mainland England"
     },
     {
       "slotId": "D1",
-      "answer": "RIO",
-      "clue": "Brazilian coastal city",
-      "hint": "Famous beach city"
+      "answer": "OPE",
+      "clue": "Midwestern way of saying excuse me (slang)"
     },
     {
       "slotId": "D2",
-      "answer": "ICETRAP",
-      "clue": "Arctic danger",
-      "hint": "Frozen hazard"
+      "answer": "SL",
+      "clue": "Sri Lanka's country code abbreviation"
     },
     {
       "slotId": "D3",
-      "answer": "ORIENTS",
-      "clue": "Points east",
-      "hint": "Directs toward"
+      "answer": "LABRADOR",
+      "clue": "Canadian region and sea, also a popular dog breed"
     },
     {
       "slotId": "D4",
-      "answer": "MALTESE",
-      "clue": "From Malta",
-      "hint": "Mediterranean islander"
+      "answer": "OURBE",
+      "clue": "French for our good (partial)"
     },
     {
       "slotId": "D5",
-      "answer": "ARRIVAL",
-      "clue": "Airport event",
-      "hint": "Coming in"
+      "answer": "MAISIE",
+      "clue": "Common Scottish name meaning pearl"
     },
-    { "slotId": "D6", "answer": "PAL", "clue": "Friend", "hint": "Buddy" },
     {
-      "slotId": "D14",
-      "answer": "SSE",
-      "clue": "Compass dir.",
-      "hint": "South-southeast"
+      "slotId": "D6",
+      "answer": "RAN",
+      "clue": "Flowed quickly, like a river to the sea"
     },
-    { "slotId": "D15", "answer": "ALL", "clue": "Every one", "hint": "Total" }
+    { "slotId": "D7", "answer": "PU", "clue": "Chemical symbol for plutonium" },
+    {
+      "slotId": "D8",
+      "answer": "II",
+      "clue": "Roman numeral for two, as in World War ___"
+    },
+    {
+      "slotId": "D9",
+      "answer": "LEI",
+      "clue": "Hawaiian flower garland given to visitors"
+    },
+    { "slotId": "D10", "answer": "ANTIC", "clue": "Playful or silly behavior" },
+    {
+      "slotId": "D11",
+      "answer": "AIR",
+      "clue": "What we breathe, also a travel method"
+    },
+    {
+      "slotId": "D12",
+      "answer": "URIC",
+      "clue": "___ acid, found in bird droppings used as fertilizer"
+    },
+    { "slotId": "D13", "answer": "SLAP", "clue": "Quick striking motion" },
+    { "slotId": "D14", "answer": "US", "clue": "United States abbreviation" },
+    { "slotId": "D15", "answer": "SIN", "clue": "Singapore's airport code" },
+    { "slotId": "D16", "answer": "END", "clue": "Final point or conclusion" },
+    {
+      "slotId": "D17",
+      "answer": "AD",
+      "clue": "Anno Domini, marking years after Christ"
+    }
   ]
 }

@@ -1,79 +1,23 @@
 [
   {
-    "puzzleId": "geo-square-001",
-    "templateId": "template-5x5-square",
-    "theme": "World Geography",
-    "subTheme": "Beginner Puzzle",
-    "difficulty": "easy"
-  },
-  {
     "puzzleId": "geo-classic-001",
-    "templateId": "template-7x7-classic",
-    "theme": "World Capitals",
-    "subTheme": "Cities of the World",
+    "templateId": "template-9x9-classic",
+    "theme": "World Geography",
+    "subTheme": "Countries & Capitals",
     "difficulty": "easy"
   },
   {
     "puzzleId": "geo-standard-001",
-    "templateId": "template-9x9-standard",
-    "theme": "Rivers & Mountains",
-    "subTheme": "Natural Landmarks",
+    "templateId": "template-11x11-standard",
+    "theme": "World Geography",
+    "subTheme": "Rivers & Mountains",
     "difficulty": "medium"
   },
   {
-    "puzzleId": "geo-challenge-001",
-    "templateId": "template-11x11-challenge",
-    "theme": "World Exploration",
-    "subTheme": "Continents & Countries",
-    "difficulty": "hard"
-  },
-  {
-    "puzzleId": "geo-expert-001",
-    "templateId": "template-13x13-expert",
-    "theme": "World Oceans",
-    "subTheme": "Seas and Waterways",
-    "difficulty": "hard"
-  },
-  {
-    "puzzleId": "geo-diamond-001",
-    "templateId": "template-7x7-diamond",
-    "theme": "Island Nations",
-    "subTheme": "Countries Surrounded by Water",
-    "difficulty": "easy"
-  },
-  {
-    "puzzleId": "geo-cross-001",
-    "templateId": "template-9x9-cross",
-    "theme": "Mountain Ranges",
-    "subTheme": "Peaks of the World",
-    "difficulty": "medium"
-  },
-  {
-    "puzzleId": "geo-spiral-001",
-    "templateId": "template-11x11-spiral",
-    "theme": "Deserts & Plains",
-    "subTheme": "Arid Landscapes",
-    "difficulty": "medium"
-  },
-  {
-    "puzzleId": "geo-corners-001",
-    "templateId": "template-9x9-corners",
-    "theme": "Famous Landmarks",
-    "subTheme": "World Monuments",
-    "difficulty": "medium"
-  },
-  {
-    "puzzleId": "geo-blocks-001",
-    "templateId": "template-11x11-blocks",
-    "theme": "World Capitals",
-    "subTheme": "Capital Cities",
-    "difficulty": "medium"
-  },
-  {
-    "puzzleId": "geo-staircase-001",
-    "templateId": "template-13x13-staircase",
-    "theme": "World Rivers",
-    "subTheme": "Major Waterways",
+    "puzzleId": "geo-advanced-001",
+    "templateId": "template-13x13-advanced",
+    "theme": "World Geography",
+    "subTheme": "Oceans & Continents",
     "difficulty": "hard"
   },
   {

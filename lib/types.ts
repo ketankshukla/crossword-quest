@@ -33,7 +33,6 @@ export interface PuzzleWord {
   slotId: string;
   answer: string;
   clue: string;
-  hint: string;
 }
 
 // Complete puzzle data

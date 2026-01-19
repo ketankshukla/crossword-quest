@@ -1,0 +1,293 @@
+{
+  "puzzleId": "geo-advanced-001",
+  "templateId": "template-13x13-advanced",
+  "theme": "World Geography",
+  "subTheme": "Oceans & Continents",
+  "difficulty": "hard",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "PAC",
+      "clue": "Pacific Ocean abbreviation, the world's largest ocean"
+    },
+    {
+      "slotId": "A2",
+      "answer": "ATL",
+      "clue": "Atlantic Ocean abbreviation, separating Americas from Europe"
+    },
+    {
+      "slotId": "A3",
+      "answer": "IND",
+      "clue": "Indian Ocean abbreviation, touching three continents"
+    },
+    {
+      "slotId": "A4",
+      "answer": "ASIA",
+      "clue": "Largest continent, home to over 4 billion people"
+    },
+    {
+      "slotId": "A5",
+      "answer": "EUR",
+      "clue": "Europe abbreviation, the continent with most countries"
+    },
+    {
+      "slotId": "A6",
+      "answer": "AFRI",
+      "clue": "Africa beginning, second largest continent by area"
+    },
+    { "slotId": "A7", "answer": "NA", "clue": "North America abbreviation" },
+    {
+      "slotId": "A8",
+      "answer": "SEA",
+      "clue": "Body of salt water smaller than an ocean"
+    },
+    {
+      "slotId": "A9",
+      "answer": "ANT",
+      "clue": "Antarctica beginning, the frozen continent"
+    },
+    { "slotId": "A10", "answer": "SA", "clue": "South America abbreviation" },
+    {
+      "slotId": "A11",
+      "answer": "OCEAN",
+      "clue": "Vast body of salt water covering 71% of Earth"
+    },
+    {
+      "slotId": "A12",
+      "answer": "TIDES",
+      "clue": "Rising and falling of sea levels caused by the moon"
+    },
+    {
+      "slotId": "A13",
+      "answer": "BAY",
+      "clue": "Coastal inlet like Hudson or Chesapeake"
+    },
+    {
+      "slotId": "A14",
+      "answer": "CORAL",
+      "clue": "Living organism forming reefs in tropical oceans"
+    },
+    {
+      "slotId": "A15",
+      "answer": "ICE",
+      "clue": "Frozen form covering polar seas as glaciers and bergs"
+    },
+    {
+      "slotId": "A16",
+      "answer": "WAVE",
+      "clue": "Oscillation of water across ocean surfaces"
+    },
+    {
+      "slotId": "A17",
+      "answer": "S",
+      "clue": "South direction, toward Antarctica"
+    },
+    {
+      "slotId": "A18",
+      "answer": "REEF",
+      "clue": "Underwater ecosystem, like Australia's Great Barrier"
+    },
+    {
+      "slotId": "A19",
+      "answer": "ARC",
+      "clue": "Curved line, like island chains in the Pacific"
+    },
+    {
+      "slotId": "A20",
+      "answer": "E",
+      "clue": "East, direction of sunrise over oceans"
+    },
+    {
+      "slotId": "A21",
+      "answer": "N",
+      "clue": "North, toward the Arctic Ocean"
+    },
+    {
+      "slotId": "A22",
+      "answer": "W",
+      "clue": "West, direction of sunset over oceans"
+    },
+    {
+      "slotId": "A23",
+      "answer": "OIL",
+      "clue": "Fossil fuel extracted from beneath ocean floors"
+    },
+    {
+      "slotId": "A24",
+      "answer": "DEEP",
+      "clue": "Describing the Mariana Trench, ocean's lowest point"
+    },
+    {
+      "slotId": "A25",
+      "answer": "T",
+      "clue": "First letter of trench, tsunami, or tide"
+    },
+    {
+      "slotId": "A26",
+      "answer": "SALT",
+      "clue": "Mineral making ocean water undrinkable"
+    },
+    {
+      "slotId": "A27",
+      "answer": "RED",
+      "clue": "___ Sea, body of water between Africa and Arabia"
+    },
+    {
+      "slotId": "A28",
+      "answer": "SHORE",
+      "clue": "Land at the edge of an ocean or sea"
+    },
+    {
+      "slotId": "A29",
+      "answer": "ERA",
+      "clue": "Geological time period in Earth's history"
+    },
+    {
+      "slotId": "A30",
+      "answer": "COAST",
+      "clue": "Land bordering an ocean, often with beaches"
+    },
+    {
+      "slotId": "A31",
+      "answer": "INLET",
+      "clue": "Narrow water passage between land masses"
+    },
+    {
+      "slotId": "A32",
+      "answer": "AU",
+      "clue": "Australia abbreviation, island continent"
+    },
+    {
+      "slotId": "A33",
+      "answer": "MED",
+      "clue": "Mediterranean Sea abbreviation"
+    },
+    {
+      "slotId": "A34",
+      "answer": "LAT",
+      "clue": "Latitude abbreviation, lines parallel to equator"
+    },
+    { "slotId": "A35", "answer": "LO", "clue": "Low tide abbreviation" },
+    {
+      "slotId": "A36",
+      "answer": "GULF",
+      "clue": "Large bay, like the one between Florida and Mexico"
+    },
+    {
+      "slotId": "A37",
+      "answer": "STR",
+      "clue": "Strait abbreviation, narrow water passage"
+    },
+    {
+      "slotId": "A38",
+      "answer": "CAPE",
+      "clue": "Point of land extending into water, like Good Hope"
+    },
+    {
+      "slotId": "A39",
+      "answer": "BAY",
+      "clue": "Inlet of water, like San Francisco or Tokyo"
+    },
+    {
+      "slotId": "A40",
+      "answer": "ARM",
+      "clue": "Narrow extension of water into land"
+    },
+    { "slotId": "A41", "answer": "FJD", "clue": "Fiji dollar currency code" },
+    {
+      "slotId": "D1",
+      "answer": "PAN",
+      "clue": "All-encompassing prefix, as in Pan-Pacific"
+    },
+    { "slotId": "D2", "answer": "AS", "clue": "Asia abbreviation" },
+    {
+      "slotId": "D3",
+      "answer": "COBE",
+      "clue": "Cosmic Background Explorer satellite"
+    },
+    { "slotId": "D4", "answer": "TAWAV", "clue": "Wave backward (reversed)" },
+    { "slotId": "D5", "answer": "LE", "clue": "French article meaning the" },
+    {
+      "slotId": "D6",
+      "answer": "URODE",
+      "clue": "Salamander order scientific term"
+    },
+    {
+      "slotId": "D7",
+      "answer": "RACE",
+      "clue": "Ocean current flow or sailing competition"
+    },
+    { "slotId": "D8", "answer": "IA", "clue": "Iowa state abbreviation" },
+    {
+      "slotId": "D9",
+      "answer": "NSI",
+      "clue": "National Standards Institute abbreviation"
+    },
+    {
+      "slotId": "D10",
+      "answer": "AB",
+      "clue": "Blood type or Alberta abbreviation"
+    },
+    {
+      "slotId": "D11",
+      "answer": "SA",
+      "clue": "South Africa or South America abbreviation"
+    },
+    {
+      "slotId": "D12",
+      "answer": "ARCADES",
+      "clue": "Covered passages or game rooms"
+    },
+    {
+      "slotId": "D13",
+      "answer": "YEW",
+      "clue": "Evergreen tree found in coastal regions"
+    },
+    {
+      "slotId": "D14",
+      "answer": "NST",
+      "clue": "Newfoundland Standard Time abbreviation"
+    },
+    { "slotId": "D15", "answer": "OILIEST", "clue": "Most greasy or slippery" },
+    {
+      "slotId": "D16",
+      "answer": "ENW",
+      "clue": "East-north-west compass reading"
+    },
+    { "slotId": "D17", "answer": "FRA", "clue": "France country code" },
+    {
+      "slotId": "D18",
+      "answer": "SRE",
+      "clue": "Site Reliability Engineering abbreviation"
+    },
+    {
+      "slotId": "D19",
+      "answer": "DAL",
+      "clue": "Dallas airport code or Indian lentil dish"
+    },
+    {
+      "slotId": "D20",
+      "answer": "GUAM",
+      "clue": "US Pacific island territory"
+    },
+    { "slotId": "D21", "answer": "ULTRA", "clue": "Beyond normal or extreme" },
+    { "slotId": "D22", "answer": "FLAT", "clue": "Level terrain or apartment" },
+    {
+      "slotId": "D23",
+      "answer": "MAYO",
+      "clue": "Irish county or sandwich spread"
+    },
+    { "slotId": "D24", "answer": "GL", "clue": "Greenland country code" },
+    { "slotId": "D25", "answer": "BAY", "clue": "Coastal water body" },
+    {
+      "slotId": "D26",
+      "answer": "APE",
+      "clue": "Great primate found in African forests"
+    },
+    {
+      "slotId": "D27",
+      "answer": "JD",
+      "clue": "Juris Doctor law degree abbreviation"
+    }
+  ]
+}
