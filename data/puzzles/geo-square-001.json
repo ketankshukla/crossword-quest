@@ -33,7 +33,7 @@
       "slotId": "A9",
       "answer": "TREND",
       "clue": "Climate ___ (global pattern)",
-      "hint": "Direction or tendency"
+      "hint": "Direction"
     },
     {
       "slotId": "D1",
@@ -44,26 +44,26 @@
     {
       "slotId": "D2",
       "answer": "EMBER",
-      "clue": "What volcanoes leave behind",
-      "hint": "Glowing remains"
+      "clue": "Volcano remnant",
+      "hint": "Glowing coal"
     },
     {
       "slotId": "D3",
       "answer": "ABUSE",
-      "clue": "Environmental ___",
-      "hint": "Harmful treatment"
+      "clue": "Environmental harm",
+      "hint": "Mistreatment"
     },
     {
       "slotId": "D4",
       "answer": "RESIN",
-      "clue": "Amazon rainforest product",
+      "clue": "Rainforest product",
       "hint": "Tree secretion"
     },
     {
       "slotId": "D5",
       "answer": "TREND",
-      "clue": "Weather ___ analysis",
-      "hint": "Pattern direction"
+      "clue": "Weather pattern",
+      "hint": "Tendency"
     }
   ]
 }

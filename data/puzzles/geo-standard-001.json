@@ -25,160 +25,117 @@
     },
     {
       "slotId": "A10",
-      "answer": "AN",
-      "clue": "Article before vowel",
-      "hint": "___ apple"
+      "answer": "AMAZONIAN",
+      "clue": "Like the great river",
+      "hint": "Rainforest region"
     },
     {
       "slotId": "A11",
-      "answer": "DAM",
-      "clue": "River barrier",
-      "hint": "Hoover or Aswan"
-    },
-    {
-      "slotId": "A12",
-      "answer": "ES",
-      "clue": "Spanish plural ending",
-      "hint": "More than one"
-    },
-    {
-      "slotId": "A13",
       "answer": "PATAGONIA",
       "clue": "South American region",
       "hint": "Argentina/Chile area"
     },
     {
-      "slotId": "A14",
+      "slotId": "A12",
       "answer": "OAR",
       "clue": "Rowing tool",
-      "hint": "Boat propeller"
+      "hint": "Boat paddle"
     },
     {
-      "slotId": "A15",
+      "slotId": "A13",
       "answer": "ICE",
       "clue": "Glacier material",
       "hint": "Frozen water"
     },
     {
-      "slotId": "A16",
+      "slotId": "A14",
       "answer": "ARGENTINA",
       "clue": "Buenos Aires' country",
-      "hint": "South American nation"
+      "hint": "Tango nation"
+    },
+    {
+      "slotId": "A15",
+      "answer": "NORWEGIAN",
+      "clue": "From Oslo's land",
+      "hint": "Scandinavian"
+    },
+    {
+      "slotId": "A16",
+      "answer": "DANUBIANS",
+      "clue": "River dwellers",
+      "hint": "European river folk"
     },
     {
       "slotId": "A17",
-      "answer": "GO",
-      "clue": "Travel verb",
-      "hint": "Move along"
-    },
-    { "slotId": "A18", "answer": "AND", "clue": "Conjunction", "hint": "Plus" },
-    {
-      "slotId": "A19",
-      "answer": "AN",
-      "clue": "Indefinite article",
-      "hint": "One"
-    },
-    {
-      "slotId": "A20",
-      "answer": "RAINWATER",
-      "clue": "Precipitation collection",
-      "hint": "Storm runoff"
-    },
-    {
-      "slotId": "A21",
       "answer": "URAL",
-      "clue": "___ Mountains (Europe/Asia border)",
-      "hint": "Russian range"
+      "clue": "___ Mountains",
+      "hint": "Europe/Asia border"
     },
     {
-      "slotId": "A22",
+      "slotId": "A18",
       "answer": "SEAS",
       "clue": "Oceans, informally",
-      "hint": "Bodies of salt water"
+      "hint": "Salt waters"
     },
     {
       "slotId": "D1",
-      "answer": "ALPO",
-      "clue": "Dog food brand",
-      "hint": "Pet food"
+      "answer": "ALAP",
+      "clue": "Indian music intro",
+      "hint": "Raga beginning"
     },
     {
       "slotId": "D2",
-      "answer": "LANAGORA",
-      "clue": "Wool market",
-      "hint": "Fiber exchange"
+      "answer": "LAMA",
+      "clue": "Tibetan monk",
+      "hint": "Buddhist leader"
     },
     {
       "slotId": "D3",
-      "answer": "ND",
-      "clue": "North Dakota abbr.",
-      "hint": "Fargo's state"
+      "answer": "PARANA",
+      "clue": "South American river",
+      "hint": "Brazilian waterway"
     },
     {
       "slotId": "D4",
-      "answer": "ADAPTRAIN",
-      "clue": "Adjust to weather",
-      "hint": "Climate adaptation"
+      "answer": "SANTIAGO",
+      "clue": "Chile's capital",
+      "hint": "Andes city"
     },
     {
       "slotId": "D5",
-      "answer": "NIAGARAUS",
-      "clue": "Famous falls area",
-      "hint": "NY/Canada border"
+      "answer": "NORWEGIAN",
+      "clue": "Nordic nationality",
+      "hint": "From Norway"
     },
     {
       "slotId": "D6",
-      "answer": "IM",
-      "clue": "I am, contracted",
-      "hint": "I'm without apostrophe"
+      "answer": "IRAQI",
+      "clue": "From Baghdad",
+      "hint": "Middle Eastern"
     },
     {
       "slotId": "D7",
-      "answer": "LACINGEAN",
-      "clue": "Tying up variation",
-      "hint": "Fastening style"
+      "answer": "LANDAUENS",
+      "clue": "Carriage types",
+      "hint": "Horse vehicles"
     },
     {
       "slotId": "D8",
-      "answer": "ESEA",
-      "clue": "Education act abbr.",
-      "hint": "School law"
+      "answer": "ESAS",
+      "clue": "Those (Spanish)",
+      "hint": "Spanish demonstratives"
     },
     {
-      "slotId": "D23",
-      "answer": "DOA",
-      "clue": "Hospital abbr.",
-      "hint": "Dead on arrival"
+      "slotId": "D19",
+      "answer": "URUS",
+      "clue": "Wild oxen",
+      "hint": "Extinct cattle"
     },
     {
-      "slotId": "D24",
-      "answer": "MIN",
-      "clue": "Minute abbr.",
-      "hint": "60 seconds"
-    },
-    {
-      "slotId": "D25",
-      "answer": "GURU",
-      "clue": "Wise teacher",
-      "hint": "Expert guide"
-    },
-    {
-      "slotId": "D26",
-      "answer": "ANAS",
-      "clue": "Duck genus",
-      "hint": "Mallard family"
-    },
-    {
-      "slotId": "D27",
-      "answer": "AL",
-      "clue": "Alabama abbr.",
-      "hint": "Southern state"
-    },
-    {
-      "slotId": "D28",
-      "answer": "NS",
-      "clue": "Nova Scotia abbr.",
-      "hint": "Canadian province"
+      "slotId": "D20",
+      "answer": "NESS",
+      "clue": "Loch ___ (Scottish lake)",
+      "hint": "Monster's home"
     }
   ]
 }

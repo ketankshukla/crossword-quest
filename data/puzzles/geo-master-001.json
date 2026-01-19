@@ -1,0 +1,279 @@
+{
+  "puzzleId": "geo-master-001",
+  "templateId": "template-15x15-master",
+  "theme": "World Geography",
+  "subTheme": "Ultimate Challenge",
+  "difficulty": "hard",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "ASIA",
+      "clue": "Largest continent",
+      "hint": "Eastern landmass"
+    },
+    {
+      "slotId": "A5",
+      "answer": "OCEAN",
+      "clue": "Pacific or Atlantic",
+      "hint": "Large water body"
+    },
+    {
+      "slotId": "A10",
+      "answer": "ALPS",
+      "clue": "Swiss mountains",
+      "hint": "European peaks"
+    },
+    {
+      "slotId": "A14",
+      "answer": "SOUTHAMERICANS",
+      "clue": "Continent's people",
+      "hint": "Brazilians, etc."
+    },
+    {
+      "slotId": "A15",
+      "answer": "MEDITERRANEANS",
+      "clue": "Sea region people",
+      "hint": "Italian coast folk"
+    },
+    {
+      "slotId": "A16",
+      "answer": "ARCHIPELAGOIST",
+      "clue": "Island chain expert",
+      "hint": "Island studier"
+    },
+    {
+      "slotId": "A17",
+      "answer": "TUNDRA",
+      "clue": "Arctic biome",
+      "hint": "Frozen plain"
+    },
+    {
+      "slotId": "A18",
+      "answer": "SAHARA",
+      "clue": "African desert",
+      "hint": "World's largest hot desert"
+    },
+    {
+      "slotId": "A19",
+      "answer": "CONTINENTALIST",
+      "clue": "Land mass expert",
+      "hint": "Geographic scholar"
+    },
+    {
+      "slotId": "A20",
+      "answer": "EQUATORIALZONE",
+      "clue": "Tropical region",
+      "hint": "Middle latitude"
+    },
+    {
+      "slotId": "A21",
+      "answer": "NILE",
+      "clue": "Egyptian river",
+      "hint": "Longest African river"
+    },
+    {
+      "slotId": "A22",
+      "answer": "DELTA",
+      "clue": "River mouth",
+      "hint": "Triangle formation"
+    },
+    {
+      "slotId": "A23",
+      "answer": "REEF",
+      "clue": "Coral structure",
+      "hint": "Ocean formation"
+    },
+    {
+      "slotId": "A24",
+      "answer": "WORLDTRAVELERS",
+      "clue": "Globe-trotters",
+      "hint": "International tourists"
+    },
+    {
+      "slotId": "A25",
+      "answer": "LATITUDINARIAN",
+      "clue": "Tolerant person",
+      "hint": "Open-minded one"
+    },
+    {
+      "slotId": "A26",
+      "answer": "ARCTIC",
+      "clue": "North polar",
+      "hint": "Frozen north"
+    },
+    {
+      "slotId": "A27",
+      "answer": "STEPPE",
+      "clue": "Russian plain",
+      "hint": "Grassland"
+    },
+    {
+      "slotId": "A28",
+      "answer": "MOUNTAINRANGES",
+      "clue": "Peak chains",
+      "hint": "Alps, Andes, etc."
+    },
+    {
+      "slotId": "A29",
+      "answer": "GEOGRAPHICALLY",
+      "clue": "By location",
+      "hint": "Spatially"
+    },
+    {
+      "slotId": "A30",
+      "answer": "INTERNATIONALS",
+      "clue": "Global citizens",
+      "hint": "Worldly folks"
+    },
+    {
+      "slotId": "A31",
+      "answer": "MAPS",
+      "clue": "Atlas pages",
+      "hint": "Geographic charts"
+    },
+    {
+      "slotId": "A32",
+      "answer": "ATLAS",
+      "clue": "Map book",
+      "hint": "Geographic reference"
+    },
+    {
+      "slotId": "A33",
+      "answer": "SEAS",
+      "clue": "Oceans, informally",
+      "hint": "Salt waters"
+    },
+    {
+      "slotId": "D1",
+      "answer": "ASTA",
+      "clue": "Famous dog",
+      "hint": "Thin Man pet"
+    },
+    {
+      "slotId": "D2",
+      "answer": "SOURCONTINENTE",
+      "clue": "South continent (var)",
+      "hint": "Southern landmass"
+    },
+    {
+      "slotId": "D3",
+      "answer": "IUNTQUELOIATN",
+      "clue": "Equatorial (anagram)",
+      "hint": "Middle zone"
+    },
+    {
+      "slotId": "D4",
+      "answer": "ATHDRLILOCRTE",
+      "clue": "Theatrical (anagram)",
+      "hint": "Dramatic"
+    },
+    {
+      "slotId": "D5",
+      "answer": "OEDWART",
+      "clue": "Toward (var)",
+      "hint": "Direction"
+    },
+    {
+      "slotId": "D6",
+      "answer": "CIRAIST",
+      "clue": "Racist (anagram)",
+      "hint": "Bigot"
+    },
+    {
+      "slotId": "D7",
+      "answer": "ENPA",
+      "clue": "Pane (anagram)",
+      "hint": "Window glass"
+    },
+    {
+      "slotId": "D8",
+      "answer": "AHRATE",
+      "clue": "Earth (anagram)",
+      "hint": "Our planet"
+    },
+    {
+      "slotId": "D9",
+      "answer": "NEEIGLA",
+      "clue": "Senegal (anagram)",
+      "hint": "African nation"
+    },
+    {
+      "slotId": "D11",
+      "answer": "LMOAGRUOTENNTI",
+      "clue": "Mountain (anagram)",
+      "hint": "Peak"
+    },
+    {
+      "slotId": "D12",
+      "answer": "PEWDILTANASRL",
+      "clue": "Wetlands (anagram)",
+      "hint": "Marshes"
+    },
+    {
+      "slotId": "D13",
+      "answer": "STEGARNOIPHAL",
+      "clue": "Geographs (anagram)",
+      "hint": "Maps"
+    },
+    {
+      "slotId": "D34",
+      "answer": "SESS",
+      "clue": "Sessions abbr.",
+      "hint": "Meetings"
+    },
+    {
+      "slotId": "D35",
+      "answer": "TARCW",
+      "clue": "Craft (anagram)",
+      "hint": "Skill"
+    },
+    {
+      "slotId": "D36",
+      "answer": "SPESE",
+      "clue": "Seeps (anagram)",
+      "hint": "Oozes"
+    },
+    {
+      "slotId": "D37",
+      "answer": "DAELTNP",
+      "clue": "Planted (anagram)",
+      "hint": "Sowed"
+    },
+    {
+      "slotId": "D38",
+      "answer": "ETLALIY",
+      "clue": "Reality (anagram)",
+      "hint": "Truth"
+    },
+    {
+      "slotId": "D39",
+      "answer": "LAADTSI",
+      "clue": "Details (anagram)",
+      "hint": "Specifics"
+    },
+    {
+      "slotId": "D40",
+      "answer": "TGRANAE",
+      "clue": "Garnet (anagram)",
+      "hint": "Gemstone"
+    },
+    {
+      "slotId": "D41",
+      "answer": "ASRENNG",
+      "clue": "Rangers (anagram)",
+      "hint": "Park guards"
+    },
+    {
+      "slotId": "D42",
+      "answer": "MAGS",
+      "clue": "Magazines abbr.",
+      "hint": "Publications"
+    },
+    {
+      "slotId": "D43",
+      "answer": "PASS",
+      "clue": "Mountain ___",
+      "hint": "Route through"
+    }
+  ]
+}

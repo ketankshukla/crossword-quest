@@ -2,110 +2,100 @@
   "puzzleId": "geo-classic-001",
   "templateId": "template-7x7-classic",
   "theme": "World Capitals",
-  "subTheme": "Cities Around the Globe",
+  "subTheme": "Cities of the World",
   "difficulty": "easy",
   "words": [
     {
       "slotId": "A1",
       "answer": "RIO",
       "clue": "___ de Janeiro, Brazil",
-      "hint": "Famous carnival city"
+      "hint": "Carnival city"
     },
     {
       "slotId": "A4",
-      "answer": "BAY",
-      "clue": "San Francisco ___",
-      "hint": "Body of water"
+      "answer": "MAP",
+      "clue": "Atlas page",
+      "hint": "Geographic chart"
     },
     {
       "slotId": "A7",
       "answer": "ICELAND",
-      "clue": "Nordic island nation",
-      "hint": "Land of fire and ice"
+      "clue": "Reykjavik's country",
+      "hint": "Nordic island nation"
     },
     {
       "slotId": "A8",
-      "answer": "OCEANIA",
-      "clue": "Pacific region with Australia",
-      "hint": "Continent/region down under"
+      "answer": "CROATIA",
+      "clue": "Zagreb's country",
+      "hint": "Adriatic nation"
     },
     {
       "slotId": "A9",
-      "answer": "EGYPT",
-      "clue": "Land of the pharaohs",
-      "hint": "Pyramids country"
+      "answer": "ATLAS",
+      "clue": "Book of maps",
+      "hint": "Geographic reference"
     },
     {
       "slotId": "A10",
-      "answer": "LATVIAN",
-      "clue": "From Riga's country",
-      "hint": "Baltic nationality"
+      "answer": "TRIPOLI",
+      "clue": "Libya's capital",
+      "hint": "North African city"
     },
     {
       "slotId": "A11",
-      "answer": "ANDORRA",
-      "clue": "Tiny European nation",
-      "hint": "Pyrenees microstate"
+      "answer": "SENEGAL",
+      "clue": "Dakar's country",
+      "hint": "West African nation"
     },
     {
       "slotId": "A12",
-      "answer": "LAO",
-      "clue": "From Laos",
-      "hint": "Southeast Asian"
+      "answer": "SPA",
+      "clue": "Resort town type",
+      "hint": "Relaxation spot"
     },
     {
       "slotId": "A13",
-      "answer": "AYE",
-      "clue": "Sailor's yes",
-      "hint": "Affirmative"
+      "answer": "TEL",
+      "clue": "___ Aviv, Israel",
+      "hint": "Israeli city"
     },
     {
       "slotId": "D1",
       "answer": "RIO",
       "clue": "Brazilian coastal city",
-      "hint": "Christ the Redeemer city"
+      "hint": "Famous beach city"
     },
     {
       "slotId": "D2",
-      "answer": "ICELAND",
-      "clue": "Reykjavik's country",
-      "hint": "Volcanic island nation"
+      "answer": "ICETRAP",
+      "clue": "Arctic danger",
+      "hint": "Frozen hazard"
     },
     {
       "slotId": "D3",
-      "answer": "OCEANIA",
-      "clue": "Australia's region",
-      "hint": "Pacific islands area"
+      "answer": "ORIENTS",
+      "clue": "Points east",
+      "hint": "Directs toward"
     },
     {
       "slotId": "D4",
-      "answer": "BELGTAN",
-      "clue": "Belgian variant",
-      "hint": "From Brussels area"
+      "answer": "MALTESE",
+      "clue": "From Malta",
+      "hint": "Mediterranean islander"
     },
     {
       "slotId": "D5",
-      "answer": "ANDORRA",
-      "clue": "Mountain microstate",
-      "hint": "Between France and Spain"
+      "answer": "ARRIVAL",
+      "clue": "Airport event",
+      "hint": "Coming in"
     },
-    {
-      "slotId": "D6",
-      "answer": "YAY",
-      "clue": "Cheer of joy",
-      "hint": "Exclamation"
-    },
+    { "slotId": "D6", "answer": "PAL", "clue": "Friend", "hint": "Buddy" },
     {
       "slotId": "D14",
-      "answer": "LAO",
-      "clue": "Laotian language",
-      "hint": "SE Asian tongue"
+      "answer": "SSE",
+      "clue": "Compass dir.",
+      "hint": "South-southeast"
     },
-    {
-      "slotId": "D15",
-      "answer": "AYE",
-      "clue": "Vote in favor",
-      "hint": "Yes vote"
-    }
+    { "slotId": "D15", "answer": "ALL", "clue": "Every one", "hint": "Total" }
   ]
 }
