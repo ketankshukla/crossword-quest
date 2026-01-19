@@ -1,0 +1,249 @@
+{
+  "puzzleId": "geo-pinwheel-001",
+  "templateId": "template-15x15-pinwheel",
+  "theme": "Climate Zones",
+  "subTheme": "Weather Patterns",
+  "difficulty": "hard",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "TROPI",
+      "clue": "Tropical start",
+      "hint": "Warm zone prefix"
+    },
+    {
+      "slotId": "A2",
+      "answer": "MONSOONS",
+      "clue": "Seasonal wind patterns",
+      "hint": "Asian rainy season"
+    },
+    {
+      "slotId": "A3",
+      "answer": "POLAR",
+      "clue": "Arctic climate type",
+      "hint": "Very cold zone"
+    },
+    {
+      "slotId": "A4",
+      "answer": "TEMPERATE",
+      "clue": "Moderate climate zone",
+      "hint": "Four seasons zone"
+    },
+    {
+      "slotId": "A5",
+      "answer": "HUMID",
+      "clue": "Moist climate descriptor",
+      "hint": "High moisture air"
+    },
+    {
+      "slotId": "A6",
+      "answer": "ARID",
+      "clue": "Dry climate",
+      "hint": "Desert climate"
+    },
+    {
+      "slotId": "A7",
+      "answer": "EQ",
+      "clue": "Equator abbr.",
+      "hint": "Middle latitude"
+    },
+    {
+      "slotId": "A8",
+      "answer": "SAVANNAH",
+      "clue": "Tropical grassland climate",
+      "hint": "African plains zone"
+    },
+    {
+      "slotId": "A9",
+      "answer": "COLD",
+      "clue": "Arctic descriptor",
+      "hint": "Low temperature"
+    },
+    {
+      "slotId": "A10",
+      "answer": "RAIN",
+      "clue": "Precipitation type",
+      "hint": "Wet weather"
+    },
+    {
+      "slotId": "A11",
+      "answer": "FOGGY",
+      "clue": "Misty climate",
+      "hint": "San Francisco weather"
+    },
+    {
+      "slotId": "A12",
+      "answer": "WARM",
+      "clue": "Tropical descriptor",
+      "hint": "Hot weather"
+    },
+    {
+      "slotId": "A13",
+      "answer": "SUN",
+      "clue": "Desert climate feature",
+      "hint": "Bright star"
+    },
+    {
+      "slotId": "A14",
+      "answer": "TUNDRA",
+      "clue": "Frozen Arctic zone",
+      "hint": "Permafrost region"
+    },
+    {
+      "slotId": "A15",
+      "answer": "SNOW",
+      "clue": "Winter precipitation",
+      "hint": "White flakes"
+    },
+    {
+      "slotId": "A16",
+      "answer": "ZONE",
+      "clue": "Climate region",
+      "hint": "Area type"
+    },
+    {
+      "slotId": "A17",
+      "answer": "ICE",
+      "clue": "Polar precipitation",
+      "hint": "Frozen water"
+    },
+    {
+      "slotId": "A18",
+      "answer": "WINDS",
+      "clue": "Climate movers",
+      "hint": "Air currents"
+    },
+    {
+      "slotId": "A19",
+      "answer": "HOT",
+      "clue": "Equatorial descriptor",
+      "hint": "High temperature"
+    },
+    {
+      "slotId": "A20",
+      "answer": "DRY",
+      "clue": "Desert climate",
+      "hint": "Low moisture"
+    },
+    {
+      "slotId": "A21",
+      "answer": "WET",
+      "clue": "Rainforest climate",
+      "hint": "High moisture"
+    },
+    {
+      "slotId": "A22",
+      "answer": "AIR",
+      "clue": "Climate medium",
+      "hint": "Atmosphere"
+    },
+    {
+      "slotId": "A23",
+      "answer": "STORM",
+      "clue": "Severe weather",
+      "hint": "Violent climate event"
+    },
+    {
+      "slotId": "A24",
+      "answer": "SEA",
+      "clue": "Maritime climate factor",
+      "hint": "Ocean influence"
+    },
+    {
+      "slotId": "A25",
+      "answer": "MILD",
+      "clue": "Temperate descriptor",
+      "hint": "Not extreme"
+    },
+    {
+      "slotId": "A26",
+      "answer": "FROST",
+      "clue": "Cold climate sign",
+      "hint": "Frozen dew"
+    },
+    {
+      "slotId": "A27",
+      "answer": "SKY",
+      "clue": "Weather viewing area",
+      "hint": "Above us"
+    },
+    {
+      "slotId": "A28",
+      "answer": "FOG",
+      "clue": "Coastal climate feature",
+      "hint": "Ground cloud"
+    },
+    {
+      "slotId": "A29",
+      "answer": "HEAT",
+      "clue": "Tropical feature",
+      "hint": "High temperature"
+    },
+    {
+      "slotId": "A30",
+      "answer": "CLOUD",
+      "clue": "Rain source",
+      "hint": "Sky formation"
+    },
+    {
+      "slotId": "A31",
+      "answer": "HAZE",
+      "clue": "Humid climate effect",
+      "hint": "Atmospheric blur"
+    },
+    {
+      "slotId": "A32",
+      "answer": "COOL",
+      "clue": "Alpine climate",
+      "hint": "Not quite cold"
+    },
+    {
+      "slotId": "A33",
+      "answer": "SEASONAL",
+      "clue": "Climate variation type",
+      "hint": "Changes with time"
+    },
+    {
+      "slotId": "A34",
+      "answer": "EL",
+      "clue": "___ Nino",
+      "hint": "Climate pattern prefix"
+    },
+    {
+      "slotId": "A35",
+      "answer": "NINO",
+      "clue": "El ___",
+      "hint": "Pacific climate pattern"
+    },
+    {
+      "slotId": "A36",
+      "answer": "OCEAN",
+      "clue": "Climate regulator",
+      "hint": "Large water body"
+    },
+    {
+      "slotId": "A37",
+      "answer": "EQUATORS",
+      "clue": "Tropical zone markers",
+      "hint": "Middle latitudes"
+    },
+    {
+      "slotId": "A38",
+      "answer": "POLES",
+      "clue": "Cold zone locations",
+      "hint": "North and South"
+    },
+    {
+      "slotId": "A39",
+      "answer": "LATITUDE",
+      "clue": "Climate zone determinant",
+      "hint": "North-south position"
+    },
+    {
+      "slotId": "A40",
+      "answer": "SUNNY",
+      "clue": "Clear weather",
+      "hint": "Bright conditions"
+    }
+  ]
+}

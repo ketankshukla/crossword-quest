@@ -1,0 +1,86 @@
+[
+  {
+    "puzzleId": "geo-classic-001",
+    "templateId": "template-15x15-classic",
+    "theme": "World Capitals",
+    "subTheme": "European Cities",
+    "difficulty": "medium"
+  },
+  {
+    "puzzleId": "geo-open-001",
+    "templateId": "template-15x15-open",
+    "theme": "Major Rivers",
+    "subTheme": "Waterways of the World",
+    "difficulty": "medium"
+  },
+  {
+    "puzzleId": "geo-compact-001",
+    "templateId": "template-13x13-compact",
+    "theme": "Mountain Ranges",
+    "subTheme": "Peaks and Summits",
+    "difficulty": "easy"
+  },
+  {
+    "puzzleId": "geo-diamond-001",
+    "templateId": "template-15x15-diamond",
+    "theme": "World Oceans & Seas",
+    "subTheme": "Bodies of Water",
+    "difficulty": "medium"
+  },
+  {
+    "puzzleId": "geo-mini-001",
+    "templateId": "template-11x11-mini",
+    "theme": "Island Nations",
+    "subTheme": "Countries Surrounded by Water",
+    "difficulty": "easy"
+  },
+  {
+    "puzzleId": "geo-staircase-001",
+    "templateId": "template-15x15-staircase",
+    "theme": "Famous Landmarks",
+    "subTheme": "World Monuments",
+    "difficulty": "medium"
+  },
+  {
+    "puzzleId": "geo-cross-001",
+    "templateId": "template-13x13-cross",
+    "theme": "Deserts of the World",
+    "subTheme": "Arid Landscapes",
+    "difficulty": "easy"
+  },
+  {
+    "puzzleId": "geo-pinwheel-001",
+    "templateId": "template-15x15-pinwheel",
+    "theme": "Climate Zones",
+    "subTheme": "Weather Patterns",
+    "difficulty": "hard"
+  },
+  {
+    "puzzleId": "geo-blocks-001",
+    "templateId": "template-11x11-blocks",
+    "theme": "Continents",
+    "subTheme": "The Seven Landmasses",
+    "difficulty": "easy"
+  },
+  {
+    "puzzleId": "geo-triplestack-001",
+    "templateId": "template-15x15-triplestack",
+    "theme": "Famous Cities",
+    "subTheme": "World Metropolises",
+    "difficulty": "hard"
+  },
+  {
+    "puzzleId": "geo-spiral-001",
+    "templateId": "template-13x13-spiral",
+    "theme": "National Parks",
+    "subTheme": "Protected Wilderness",
+    "difficulty": "medium"
+  },
+  {
+    "puzzleId": "geo-corners-001",
+    "templateId": "template-15x15-corners",
+    "theme": "World Languages",
+    "subTheme": "Global Communication",
+    "difficulty": "medium"
+  }
+]

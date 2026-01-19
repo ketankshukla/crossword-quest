@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧩 Crossword Quest
+
+A geography-themed crossword puzzle game built with Next.js 14, TypeScript, and Tailwind CSS.
+
+## Features
+
+- **12 unique grid templates** - Various sizes and patterns (11x11 to 15x15)
+- **Geography-themed puzzles** - World capitals, rivers, mountains, oceans, landmarks, and more
+- **Interactive gameplay** - Keyboard navigation, cell highlighting, and direction switching
+- **Scoring system** - Points for correct words with streak bonuses
+- **Hint system** - Get hints when stuck (-25 points penalty)
+- **Beautiful UI** - Modern design with animations and responsive layout
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to play!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to Play
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Click** a cell to select it
+- **Type** letters to fill in answers
+- **Arrow keys** to navigate
+- **Tab** to switch between Across and Down
+- **Backspace** to delete letters
+- **Click clues** to jump to that word
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: Next.js 14 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **React Compiler**: Enabled for automatic optimizations
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Puzzle Themes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🌍 World Capitals
+- 🏞️ Major Rivers
+- ⛰️ Mountain Ranges
+- 🌊 Oceans & Seas
+- 🏝️ Island Nations
+- 🗽 Famous Landmarks
+- 🏜️ Deserts
+- 🌡️ Climate Zones
+- 🌎 Continents
+- 🏙️ Famous Cities
+- 🏕️ National Parks
+- 🗣️ World Languages
 
-## Deploy on Vercel
+## Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is configured for deployment on Vercel via GitHub integration.

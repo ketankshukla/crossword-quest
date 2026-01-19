@@ -1,0 +1,255 @@
+{
+  "puzzleId": "geo-classic-001",
+  "templateId": "template-15x15-classic",
+  "theme": "World Capitals",
+  "subTheme": "European Cities",
+  "difficulty": "medium",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "OSLO",
+      "clue": "Norway's capital",
+      "hint": "Scandinavian city on a fjord"
+    },
+    {
+      "slotId": "A5",
+      "answer": "PARIS",
+      "clue": "City of Light",
+      "hint": "Home to the Eiffel Tower"
+    },
+    {
+      "slotId": "A10",
+      "answer": "ROME",
+      "clue": "Eternal City",
+      "hint": "All roads lead here"
+    },
+    {
+      "slotId": "A14",
+      "answer": "RIGA",
+      "clue": "Latvia's capital",
+      "hint": "Baltic state capital"
+    },
+    {
+      "slotId": "A15",
+      "answer": "CAIRO",
+      "clue": "Egypt's largest city",
+      "hint": "Near the pyramids"
+    },
+    {
+      "slotId": "A16",
+      "answer": "LIMA",
+      "clue": "Peru's capital",
+      "hint": "South American coastal city"
+    },
+    {
+      "slotId": "A17",
+      "answer": "BERN",
+      "clue": "Swiss capital",
+      "hint": "Not Zurich or Geneva"
+    },
+    {
+      "slotId": "A18",
+      "answer": "TOKYO",
+      "clue": "Japan's capital",
+      "hint": "World's largest metro area"
+    },
+    {
+      "slotId": "A19",
+      "answer": "KIEV",
+      "clue": "Ukraine's capital",
+      "hint": "City on the Dnieper"
+    },
+    {
+      "slotId": "A20",
+      "answer": "LAGOS",
+      "clue": "Nigerian megacity",
+      "hint": "Africa's largest city"
+    },
+    {
+      "slotId": "A21",
+      "answer": "MINSK",
+      "clue": "Belarus capital",
+      "hint": "Eastern European capital"
+    },
+    {
+      "slotId": "A22",
+      "answer": "MANILA",
+      "clue": "Philippines capital",
+      "hint": "Island nation's capital"
+    },
+    {
+      "slotId": "A23",
+      "answer": "ATHENS",
+      "clue": "Greek capital",
+      "hint": "Birthplace of democracy"
+    },
+    {
+      "slotId": "A24",
+      "answer": "RIO",
+      "clue": "___ de Janeiro",
+      "hint": "Brazilian coastal city"
+    },
+    {
+      "slotId": "A25",
+      "answer": "NAIROBI",
+      "clue": "Kenya's capital",
+      "hint": "East African hub"
+    },
+    {
+      "slotId": "A26",
+      "answer": "SAO",
+      "clue": "___ Paulo",
+      "hint": "Brazil's largest city prefix"
+    },
+    {
+      "slotId": "A27",
+      "answer": "HANOI",
+      "clue": "Vietnam's capital",
+      "hint": "Southeast Asian capital"
+    },
+    {
+      "slotId": "A28",
+      "answer": "TEL",
+      "clue": "___ Aviv",
+      "hint": "Israeli city prefix"
+    },
+    {
+      "slotId": "A29",
+      "answer": "DELHI",
+      "clue": "Indian capital region",
+      "hint": "New ___ is the capital"
+    },
+    {
+      "slotId": "A30",
+      "answer": "LA",
+      "clue": "City of Angels, briefly",
+      "hint": "Hollywood's home"
+    },
+    {
+      "slotId": "A31",
+      "answer": "SEOUL",
+      "clue": "South Korea's capital",
+      "hint": "K-pop's hometown"
+    },
+    {
+      "slotId": "A32",
+      "answer": "DC",
+      "clue": "Washington's suffix",
+      "hint": "U.S. capital letters"
+    },
+    {
+      "slotId": "A33",
+      "answer": "ACCRA",
+      "clue": "Ghana's capital",
+      "hint": "West African capital"
+    },
+    {
+      "slotId": "A34",
+      "answer": "BAY",
+      "clue": "San Francisco ___",
+      "hint": "Body of water"
+    },
+    {
+      "slotId": "A35",
+      "answer": "QUITO",
+      "clue": "Ecuador's capital",
+      "hint": "High-altitude capital"
+    },
+    {
+      "slotId": "A36",
+      "answer": "UAE",
+      "clue": "Dubai's country abbr.",
+      "hint": "Emirates abbreviation"
+    },
+    {
+      "slotId": "A37",
+      "answer": "JAKARTA",
+      "clue": "Indonesia's capital",
+      "hint": "World's 2nd largest metro"
+    },
+    {
+      "slotId": "A38",
+      "answer": "NYC",
+      "clue": "Big Apple abbr.",
+      "hint": "Empire State's city"
+    },
+    {
+      "slotId": "A39",
+      "answer": "BOGOTA",
+      "clue": "Colombia's capital",
+      "hint": "South American highland capital"
+    },
+    {
+      "slotId": "A40",
+      "answer": "LISBON",
+      "clue": "Portugal's capital",
+      "hint": "Iberian coastal capital"
+    },
+    {
+      "slotId": "A41",
+      "answer": "RABAT",
+      "clue": "Morocco's capital",
+      "hint": "Not Casablanca"
+    },
+    {
+      "slotId": "A42",
+      "answer": "KABUL",
+      "clue": "Afghanistan's capital",
+      "hint": "Central Asian capital"
+    },
+    {
+      "slotId": "A43",
+      "answer": "DOHA",
+      "clue": "Qatar's capital",
+      "hint": "2022 World Cup host city"
+    },
+    {
+      "slotId": "A44",
+      "answer": "ABUJA",
+      "clue": "Nigeria's capital",
+      "hint": "Not Lagos"
+    },
+    {
+      "slotId": "A45",
+      "answer": "MALE",
+      "clue": "Maldives capital",
+      "hint": "Island nation capital"
+    },
+    {
+      "slotId": "A46",
+      "answer": "SUVA",
+      "clue": "Fiji's capital",
+      "hint": "Pacific island capital"
+    },
+    {
+      "slotId": "A47",
+      "answer": "DHAKA",
+      "clue": "Bangladesh capital",
+      "hint": "South Asian megacity"
+    },
+    {
+      "slotId": "A48",
+      "answer": "AMMAN",
+      "clue": "Jordan's capital",
+      "hint": "Middle Eastern capital"
+    },
+    {
+      "slotId": "A49",
+      "answer": "TUNIS",
+      "clue": "Tunisia's capital",
+      "hint": "North African capital"
+    },
+    {
+      "slotId": "A50",
+      "answer": "TEHRAN",
+      "clue": "Iran's capital",
+      "hint": "Persian capital"
+    },
+    {
+      "slotId": "A51",
+      "answer": "SANA",
+      "clue": "Yemen's capital",
+      "hint": "Arabian Peninsula capital"
+    }
+  ]
+}

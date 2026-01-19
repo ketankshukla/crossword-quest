@@ -1,0 +1,207 @@
+{
+  "puzzleId": "geo-compact-001",
+  "templateId": "template-13x13-compact",
+  "theme": "Mountain Ranges",
+  "subTheme": "Peaks and Summits",
+  "difficulty": "easy",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "ALPS",
+      "clue": "Swiss mountain range",
+      "hint": "Matterhorn's range"
+    },
+    {
+      "slotId": "A2",
+      "answer": "ICE",
+      "clue": "Mountain top cover",
+      "hint": "Frozen water"
+    },
+    {
+      "slotId": "A3",
+      "answer": "PEAK",
+      "clue": "Mountain top",
+      "hint": "Summit"
+    },
+    {
+      "slotId": "A4",
+      "answer": "URAL",
+      "clue": "Russia-Asia border range",
+      "hint": "Europe-Asia divider"
+    },
+    {
+      "slotId": "A5",
+      "answer": "SKI",
+      "clue": "Mountain sport",
+      "hint": "Downhill activity"
+    },
+    {
+      "slotId": "A6",
+      "answer": "ANDES",
+      "clue": "South American range",
+      "hint": "Longest continental range"
+    },
+    {
+      "slotId": "A7",
+      "answer": "HIGH",
+      "clue": "Mountain descriptor",
+      "hint": "Elevated"
+    },
+    {
+      "slotId": "A8",
+      "answer": "SKY",
+      "clue": "Mountain view above",
+      "hint": "Blue expanse"
+    },
+    {
+      "slotId": "A9",
+      "answer": "ROCK",
+      "clue": "Mountain material",
+      "hint": "Stone"
+    },
+    {
+      "slotId": "A10",
+      "answer": "RANGE",
+      "clue": "Mountain chain",
+      "hint": "Series of peaks"
+    },
+    {
+      "slotId": "A11",
+      "answer": "ATLAS",
+      "clue": "North African range",
+      "hint": "Moroccan mountains"
+    },
+    {
+      "slotId": "A12",
+      "answer": "CAP",
+      "clue": "Snow ___ on mountains",
+      "hint": "White top"
+    },
+    {
+      "slotId": "A13",
+      "answer": "CLIMB",
+      "clue": "Mountain activity",
+      "hint": "Ascend"
+    },
+    {
+      "slotId": "A14",
+      "answer": "ALP",
+      "clue": "Swiss peak",
+      "hint": "European mountain"
+    },
+    {
+      "slotId": "A15",
+      "answer": "ROCKY",
+      "clue": "___ Mountains",
+      "hint": "North American range"
+    },
+    {
+      "slotId": "A16",
+      "answer": "STEEP",
+      "clue": "Mountain slope descriptor",
+      "hint": "Sharp incline"
+    },
+    {
+      "slotId": "A17",
+      "answer": "HIMALAYAS",
+      "clue": "Everest's range",
+      "hint": "World's highest range"
+    },
+    {
+      "slotId": "A18",
+      "answer": "LODGE",
+      "clue": "Mountain resort",
+      "hint": "Ski accommodation"
+    },
+    {
+      "slotId": "A19",
+      "answer": "SLOPE",
+      "clue": "Mountain side",
+      "hint": "Inclined surface"
+    },
+    {
+      "slotId": "A20",
+      "answer": "TOP",
+      "clue": "Mountain summit",
+      "hint": "Highest point"
+    },
+    {
+      "slotId": "A21",
+      "answer": "TRAIL",
+      "clue": "Mountain path",
+      "hint": "Hiking route"
+    },
+    {
+      "slotId": "A22",
+      "answer": "AIR",
+      "clue": "Thin at altitude",
+      "hint": "Mountain atmosphere"
+    },
+    {
+      "slotId": "A23",
+      "answer": "VISTA",
+      "clue": "Mountain view",
+      "hint": "Scenic outlook"
+    },
+    {
+      "slotId": "A24",
+      "answer": "RIDGE",
+      "clue": "Mountain spine",
+      "hint": "Narrow crest"
+    },
+    {
+      "slotId": "A25",
+      "answer": "SNOW",
+      "clue": "Mountain precipitation",
+      "hint": "White flakes"
+    },
+    {
+      "slotId": "A26",
+      "answer": "ERA",
+      "clue": "Mountain formation time",
+      "hint": "Geological period"
+    },
+    {
+      "slotId": "A27",
+      "answer": "BASE",
+      "clue": "Mountain bottom",
+      "hint": "Foundation"
+    },
+    {
+      "slotId": "A28",
+      "answer": "TREK",
+      "clue": "Mountain journey",
+      "hint": "Long hike"
+    },
+    {
+      "slotId": "A29",
+      "answer": "MAP",
+      "clue": "Mountain guide",
+      "hint": "Trail chart"
+    },
+    {
+      "slotId": "A30",
+      "answer": "VALE",
+      "clue": "Mountain valley",
+      "hint": "Low area between peaks"
+    },
+    {
+      "slotId": "A31",
+      "answer": "TARN",
+      "clue": "Mountain lake",
+      "hint": "Alpine pond"
+    },
+    {
+      "slotId": "A32",
+      "answer": "FOG",
+      "clue": "Mountain mist",
+      "hint": "Cloud at ground level"
+    },
+    {
+      "slotId": "A33",
+      "answer": "COLD",
+      "clue": "Mountain temperature",
+      "hint": "Frigid"
+    }
+  ]
+}

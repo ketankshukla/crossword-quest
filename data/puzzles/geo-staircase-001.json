@@ -1,0 +1,279 @@
+{
+  "puzzleId": "geo-staircase-001",
+  "templateId": "template-15x15-staircase",
+  "theme": "Famous Landmarks",
+  "subTheme": "World Monuments",
+  "difficulty": "medium",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "TAJ",
+      "clue": "___ Mahal",
+      "hint": "Indian marble mausoleum"
+    },
+    {
+      "slotId": "A2",
+      "answer": "BIG",
+      "clue": "___ Ben",
+      "hint": "London clock tower"
+    },
+    {
+      "slotId": "A3",
+      "answer": "ARC",
+      "clue": "___ de Triomphe",
+      "hint": "Paris monument"
+    },
+    {
+      "slotId": "A4",
+      "answer": "GIZ",
+      "clue": "Giza start",
+      "hint": "Pyramid location prefix"
+    },
+    {
+      "slotId": "A5",
+      "answer": "BOW",
+      "clue": "Rainbow Bridge shape",
+      "hint": "Curved structure"
+    },
+    {
+      "slotId": "A6",
+      "answer": "EIFFELS",
+      "clue": "Paris tower plural",
+      "hint": "Iron lady replicas"
+    },
+    {
+      "slotId": "A7",
+      "answer": "RIO",
+      "clue": "Christ the Redeemer city",
+      "hint": "Brazilian statue location"
+    },
+    {
+      "slotId": "A8",
+      "answer": "OLD",
+      "clue": "___ Faithful geyser",
+      "hint": "Yellowstone landmark"
+    },
+    {
+      "slotId": "A9",
+      "answer": "PIS",
+      "clue": "Leaning tower city start",
+      "hint": "Italian landmark city prefix"
+    },
+    {
+      "slotId": "A10",
+      "answer": "SPA",
+      "clue": "Bath landmark type",
+      "hint": "Roman baths purpose"
+    },
+    {
+      "slotId": "A11",
+      "answer": "DAM",
+      "clue": "Hoover ___",
+      "hint": "Nevada landmark"
+    },
+    {
+      "slotId": "A12",
+      "answer": "WALL",
+      "clue": "Great ___ of China",
+      "hint": "Longest structure"
+    },
+    {
+      "slotId": "A13",
+      "answer": "MACH",
+      "clue": "Machu Picchu start",
+      "hint": "Inca ruins prefix"
+    },
+    {
+      "slotId": "A14",
+      "answer": "PYRAMID",
+      "clue": "Giza structure",
+      "hint": "Egyptian tomb"
+    },
+    {
+      "slotId": "A15",
+      "answer": "LIBERTY",
+      "clue": "Statue of ___",
+      "hint": "NYC harbor landmark"
+    },
+    {
+      "slotId": "A16",
+      "answer": "ROME",
+      "clue": "Colosseum city",
+      "hint": "Italian capital"
+    },
+    {
+      "slotId": "A17",
+      "answer": "PET",
+      "clue": "Petra start",
+      "hint": "Jordanian city prefix"
+    },
+    {
+      "slotId": "A18",
+      "answer": "STON",
+      "clue": "Stonehenge start",
+      "hint": "British monument prefix"
+    },
+    {
+      "slotId": "A19",
+      "answer": "GIZA",
+      "clue": "Pyramid plateau",
+      "hint": "Egyptian site"
+    },
+    {
+      "slotId": "A20",
+      "answer": "TOWER",
+      "clue": "Eiffel ___",
+      "hint": "Tall structure"
+    },
+    {
+      "slotId": "A21",
+      "answer": "ACRO",
+      "clue": "Acropolis start",
+      "hint": "Greek landmark prefix"
+    },
+    {
+      "slotId": "A22",
+      "answer": "RUS",
+      "clue": "Russian prefix",
+      "hint": "Kremlin country start"
+    },
+    {
+      "slotId": "A23",
+      "answer": "GREAT",
+      "clue": "___ Wall",
+      "hint": "Chinese landmark adjective"
+    },
+    {
+      "slotId": "A24",
+      "answer": "RED",
+      "clue": "___ Square",
+      "hint": "Moscow landmark"
+    },
+    {
+      "slotId": "A25",
+      "answer": "INCA",
+      "clue": "Machu Picchu builders",
+      "hint": "Peruvian civilization"
+    },
+    {
+      "slotId": "A26",
+      "answer": "RUINS",
+      "clue": "Ancient landmark remains",
+      "hint": "Archaeological sites"
+    },
+    {
+      "slotId": "A27",
+      "answer": "MAYA",
+      "clue": "Chichen Itza builders",
+      "hint": "Mexican civilization"
+    },
+    {
+      "slotId": "A28",
+      "answer": "ANGK",
+      "clue": "Angkor start",
+      "hint": "Cambodian temple prefix"
+    },
+    {
+      "slotId": "A29",
+      "answer": "GOLD",
+      "clue": "Golden Gate adjective",
+      "hint": "Precious metal"
+    },
+    {
+      "slotId": "A30",
+      "answer": "GATE",
+      "clue": "Golden ___",
+      "hint": "San Francisco bridge word"
+    },
+    {
+      "slotId": "A31",
+      "answer": "BRIDGES",
+      "clue": "Famous crossing structures",
+      "hint": "Span rivers"
+    },
+    {
+      "slotId": "A32",
+      "answer": "STATUES",
+      "clue": "Famous sculptures",
+      "hint": "Liberty and others"
+    },
+    {
+      "slotId": "A33",
+      "answer": "PERU",
+      "clue": "Machu Picchu country",
+      "hint": "South American nation"
+    },
+    {
+      "slotId": "A34",
+      "answer": "WAT",
+      "clue": "Angkor ___",
+      "hint": "Cambodian temple"
+    },
+    {
+      "slotId": "A35",
+      "answer": "MAN",
+      "clue": "Burning ___ landmark",
+      "hint": "Nevada festival structure"
+    },
+    {
+      "slotId": "A36",
+      "answer": "NEO",
+      "clue": "Neoclassical start",
+      "hint": "New Greek style prefix"
+    },
+    {
+      "slotId": "A37",
+      "answer": "EGY",
+      "clue": "Egypt start",
+      "hint": "Pyramid country prefix"
+    },
+    {
+      "slotId": "A38",
+      "answer": "SUN",
+      "clue": "Stonehenge alignment",
+      "hint": "Solar body"
+    },
+    {
+      "slotId": "A39",
+      "answer": "INN",
+      "clue": "Tourist accommodation",
+      "hint": "Landmark nearby hotel"
+    },
+    {
+      "slotId": "A40",
+      "answer": "TEMPLES",
+      "clue": "Religious landmarks",
+      "hint": "Sacred structures"
+    },
+    {
+      "slotId": "A41",
+      "answer": "SPA",
+      "clue": "Bath, England feature",
+      "hint": "Hot springs"
+    },
+    {
+      "slotId": "A42",
+      "answer": "TOM",
+      "clue": "Westminster Abbey burial",
+      "hint": "Famous name"
+    },
+    {
+      "slotId": "A43",
+      "answer": "HAL",
+      "clue": "Hall start",
+      "hint": "Concert landmark prefix"
+    },
+    {
+      "slotId": "A44",
+      "answer": "ART",
+      "clue": "Louvre content",
+      "hint": "Museum holdings"
+    },
+    {
+      "slotId": "A45",
+      "answer": "ZOO",
+      "clue": "Animal landmark",
+      "hint": "Wildlife park"
+    }
+  ]
+}
