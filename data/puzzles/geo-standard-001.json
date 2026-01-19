@@ -1,0 +1,184 @@
+{
+  "puzzleId": "geo-standard-001",
+  "templateId": "template-9x9-standard",
+  "theme": "Rivers & Mountains",
+  "subTheme": "Natural Landmarks",
+  "difficulty": "medium",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "ALPS",
+      "clue": "Swiss mountain range",
+      "hint": "European peaks"
+    },
+    {
+      "slotId": "A5",
+      "answer": "NILE",
+      "clue": "Egyptian river",
+      "hint": "Longest African river"
+    },
+    {
+      "slotId": "A9",
+      "answer": "LANDLORDS",
+      "clue": "Property owners",
+      "hint": "Rental managers"
+    },
+    {
+      "slotId": "A10",
+      "answer": "AN",
+      "clue": "Article before vowel",
+      "hint": "___ apple"
+    },
+    {
+      "slotId": "A11",
+      "answer": "DAM",
+      "clue": "River barrier",
+      "hint": "Hoover or Aswan"
+    },
+    {
+      "slotId": "A12",
+      "answer": "ES",
+      "clue": "Spanish plural ending",
+      "hint": "More than one"
+    },
+    {
+      "slotId": "A13",
+      "answer": "PATAGONIA",
+      "clue": "South American region",
+      "hint": "Argentina/Chile area"
+    },
+    {
+      "slotId": "A14",
+      "answer": "OAR",
+      "clue": "Rowing tool",
+      "hint": "Boat propeller"
+    },
+    {
+      "slotId": "A15",
+      "answer": "ICE",
+      "clue": "Glacier material",
+      "hint": "Frozen water"
+    },
+    {
+      "slotId": "A16",
+      "answer": "ARGENTINA",
+      "clue": "Buenos Aires' country",
+      "hint": "South American nation"
+    },
+    {
+      "slotId": "A17",
+      "answer": "GO",
+      "clue": "Travel verb",
+      "hint": "Move along"
+    },
+    { "slotId": "A18", "answer": "AND", "clue": "Conjunction", "hint": "Plus" },
+    {
+      "slotId": "A19",
+      "answer": "AN",
+      "clue": "Indefinite article",
+      "hint": "One"
+    },
+    {
+      "slotId": "A20",
+      "answer": "RAINWATER",
+      "clue": "Precipitation collection",
+      "hint": "Storm runoff"
+    },
+    {
+      "slotId": "A21",
+      "answer": "URAL",
+      "clue": "___ Mountains (Europe/Asia border)",
+      "hint": "Russian range"
+    },
+    {
+      "slotId": "A22",
+      "answer": "SEAS",
+      "clue": "Oceans, informally",
+      "hint": "Bodies of salt water"
+    },
+    {
+      "slotId": "D1",
+      "answer": "ALPO",
+      "clue": "Dog food brand",
+      "hint": "Pet food"
+    },
+    {
+      "slotId": "D2",
+      "answer": "LANAGORA",
+      "clue": "Wool market",
+      "hint": "Fiber exchange"
+    },
+    {
+      "slotId": "D3",
+      "answer": "ND",
+      "clue": "North Dakota abbr.",
+      "hint": "Fargo's state"
+    },
+    {
+      "slotId": "D4",
+      "answer": "ADAPTRAIN",
+      "clue": "Adjust to weather",
+      "hint": "Climate adaptation"
+    },
+    {
+      "slotId": "D5",
+      "answer": "NIAGARAUS",
+      "clue": "Famous falls area",
+      "hint": "NY/Canada border"
+    },
+    {
+      "slotId": "D6",
+      "answer": "IM",
+      "clue": "I am, contracted",
+      "hint": "I'm without apostrophe"
+    },
+    {
+      "slotId": "D7",
+      "answer": "LACINGEAN",
+      "clue": "Tying up variation",
+      "hint": "Fastening style"
+    },
+    {
+      "slotId": "D8",
+      "answer": "ESEA",
+      "clue": "Education act abbr.",
+      "hint": "School law"
+    },
+    {
+      "slotId": "D23",
+      "answer": "DOA",
+      "clue": "Hospital abbr.",
+      "hint": "Dead on arrival"
+    },
+    {
+      "slotId": "D24",
+      "answer": "MIN",
+      "clue": "Minute abbr.",
+      "hint": "60 seconds"
+    },
+    {
+      "slotId": "D25",
+      "answer": "GURU",
+      "clue": "Wise teacher",
+      "hint": "Expert guide"
+    },
+    {
+      "slotId": "D26",
+      "answer": "ANAS",
+      "clue": "Duck genus",
+      "hint": "Mallard family"
+    },
+    {
+      "slotId": "D27",
+      "answer": "AL",
+      "clue": "Alabama abbr.",
+      "hint": "Southern state"
+    },
+    {
+      "slotId": "D28",
+      "answer": "NS",
+      "clue": "Nova Scotia abbr.",
+      "hint": "Canadian province"
+    }
+  ]
+}

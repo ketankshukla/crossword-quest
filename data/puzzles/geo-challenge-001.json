@@ -1,0 +1,243 @@
+{
+  "puzzleId": "geo-challenge-001",
+  "templateId": "template-11x11-challenge",
+  "theme": "World Exploration",
+  "subTheme": "Continents & Countries",
+  "difficulty": "hard",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "SPAIN",
+      "clue": "Madrid's country",
+      "hint": "Iberian nation"
+    },
+    {
+      "slotId": "A6",
+      "answer": "CHILE",
+      "clue": "Long narrow South American country",
+      "hint": "Andes nation"
+    },
+    {
+      "slotId": "A11",
+      "answer": "PLANETEARTH",
+      "clue": "Our world",
+      "hint": "Third rock from the sun"
+    },
+    {
+      "slotId": "A12",
+      "answer": "ARC",
+      "clue": "Rainbow shape",
+      "hint": "Curved line"
+    },
+    {
+      "slotId": "A13",
+      "answer": "NET",
+      "clue": "Fishing tool",
+      "hint": "Catch device"
+    },
+    {
+      "slotId": "A14",
+      "answer": "ERA",
+      "clue": "Historical period",
+      "hint": "Age or epoch"
+    },
+    {
+      "slotId": "A15",
+      "answer": "SEA",
+      "clue": "Body of salt water",
+      "hint": "Ocean part"
+    },
+    {
+      "slotId": "A16",
+      "answer": "THE",
+      "clue": "Definite article",
+      "hint": "Common word"
+    },
+    {
+      "slotId": "A17",
+      "answer": "RIM",
+      "clue": "Canyon edge",
+      "hint": "Border or edge"
+    },
+    {
+      "slotId": "A18",
+      "answer": "ANTARCTIC",
+      "clue": "South polar region",
+      "hint": "Penguin continent"
+    },
+    {
+      "slotId": "A19",
+      "answer": "ASH",
+      "clue": "Volcanic residue",
+      "hint": "Fire remains"
+    },
+    {
+      "slotId": "A20",
+      "answer": "ICE",
+      "clue": "Polar cap material",
+      "hint": "Frozen water"
+    },
+    {
+      "slotId": "A21",
+      "answer": "CONTINENTS",
+      "clue": "Seven land masses",
+      "hint": "Major world divisions"
+    },
+    {
+      "slotId": "A22",
+      "answer": "OAT",
+      "clue": "Grain crop",
+      "hint": "Cereal plant"
+    },
+    {
+      "slotId": "A23",
+      "answer": "AIR",
+      "clue": "Atmosphere",
+      "hint": "What we breathe"
+    },
+    {
+      "slotId": "A24",
+      "answer": "TEA",
+      "clue": "Asian beverage",
+      "hint": "Hot drink"
+    },
+    {
+      "slotId": "A25",
+      "answer": "RAN",
+      "clue": "Sprinted",
+      "hint": "Moved quickly"
+    },
+    {
+      "slotId": "A26",
+      "answer": "TIN",
+      "clue": "Metal element",
+      "hint": "Can material"
+    },
+    {
+      "slotId": "A27",
+      "answer": "SPA",
+      "clue": "Resort retreat",
+      "hint": "Relaxation spot"
+    },
+    {
+      "slotId": "A28",
+      "answer": "TRAVELROUTE",
+      "clue": "Journey path",
+      "hint": "Trip direction"
+    },
+    {
+      "slotId": "A29",
+      "answer": "ATLAS",
+      "clue": "Map book",
+      "hint": "Geographic reference"
+    },
+    {
+      "slotId": "A30",
+      "answer": "STEEP",
+      "clue": "Mountain slope",
+      "hint": "Sharp incline"
+    },
+    {
+      "slotId": "D1",
+      "answer": "SPAS",
+      "clue": "Resort retreats",
+      "hint": "Relaxation spots"
+    },
+    {
+      "slotId": "D2",
+      "answer": "PLANETEARTH",
+      "clue": "BBC nature documentary",
+      "hint": "Our home planet"
+    },
+    {
+      "slotId": "D3",
+      "answer": "ARCTICTARTS",
+      "clue": "Polar pastries",
+      "hint": "Cold desserts"
+    },
+    {
+      "slotId": "D4",
+      "answer": "RE",
+      "clue": "Musical note",
+      "hint": "Do, ___, mi"
+    },
+    {
+      "slotId": "D5",
+      "answer": "NEATO",
+      "clue": "Cool, in slang",
+      "hint": "Neat-o!"
+    },
+    {
+      "slotId": "D7",
+      "answer": "HITCH",
+      "clue": "Travel snag",
+      "hint": "Problem or tie"
+    },
+    {
+      "slotId": "D8",
+      "answer": "IE",
+      "clue": "That is, abbr.",
+      "hint": "Latin abbreviation"
+    },
+    {
+      "slotId": "D9",
+      "answer": "LOCOMOTIVAS",
+      "clue": "Train engines (var.)",
+      "hint": "Railway power"
+    },
+    {
+      "slotId": "D10",
+      "answer": "EARNESTAPE",
+      "clue": "Sincere primate",
+      "hint": "Serious ape"
+    },
+    {
+      "slotId": "D31",
+      "answer": "NAAM",
+      "clue": "Name (Dutch)",
+      "hint": "Identity word"
+    },
+    {
+      "slotId": "D32",
+      "answer": "TAI",
+      "clue": "___ chi",
+      "hint": "Martial art"
+    },
+    {
+      "slotId": "D33",
+      "answer": "HIP",
+      "clue": "Body joint",
+      "hint": "Waist area"
+    },
+    {
+      "slotId": "D34",
+      "answer": "RAINED",
+      "clue": "Precipitated",
+      "hint": "Poured down"
+    },
+    {
+      "slotId": "D35",
+      "answer": "ORTA",
+      "clue": "Italian lake",
+      "hint": "Piedmont lake"
+    },
+    {
+      "slotId": "D36",
+      "answer": "MEEP",
+      "clue": "Road Runner sound",
+      "hint": "Cartoon beep"
+    },
+    {
+      "slotId": "D37",
+      "answer": "AL",
+      "clue": "Alabama abbr.",
+      "hint": "Southern state"
+    },
+    {
+      "slotId": "D38",
+      "answer": "EA",
+      "clue": "Each abbr.",
+      "hint": "Per item"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "puzzleId": "geo-square-001",
+  "templateId": "template-5x5-square",
+  "theme": "World Geography",
+  "subTheme": "Beginner Puzzle",
+  "difficulty": "easy",
+  "words": [
+    {
+      "slotId": "A1",
+      "answer": "HEART",
+      "clue": "___ of Africa (central region)",
+      "hint": "Center or core"
+    },
+    {
+      "slotId": "A6",
+      "answer": "EMBER",
+      "clue": "Volcanic glow",
+      "hint": "Hot coal"
+    },
+    {
+      "slotId": "A7",
+      "answer": "ABUSE",
+      "clue": "Misuse of resources",
+      "hint": "Mistreat"
+    },
+    {
+      "slotId": "A8",
+      "answer": "RESIN",
+      "clue": "Tree sap from forests",
+      "hint": "Sticky substance"
+    },
+    {
+      "slotId": "A9",
+      "answer": "TREND",
+      "clue": "Climate ___ (global pattern)",
+      "hint": "Direction or tendency"
+    },
+    {
+      "slotId": "D1",
+      "answer": "HEART",
+      "clue": "Core of a continent",
+      "hint": "Central part"
+    },
+    {
+      "slotId": "D2",
+      "answer": "EMBER",
+      "clue": "What volcanoes leave behind",
+      "hint": "Glowing remains"
+    },
+    {
+      "slotId": "D3",
+      "answer": "ABUSE",
+      "clue": "Environmental ___",
+      "hint": "Harmful treatment"
+    },
+    {
+      "slotId": "D4",
+      "answer": "RESIN",
+      "clue": "Amazon rainforest product",
+      "hint": "Tree secretion"
+    },
+    {
+      "slotId": "D5",
+      "answer": "TREND",
+      "clue": "Weather ___ analysis",
+      "hint": "Pattern direction"
+    }
+  ]
+}
